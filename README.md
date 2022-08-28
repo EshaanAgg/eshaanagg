@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Eshaan Aggarwal, a student, and developer from India. 🚀</div>  
+### <div align="center">I'm [Eshaan Aggarwal](https://eshaanagg.netlify.app/), a student, and developer from India. 🚀</div>  
   
 
 - 💻 I am a Computer Science and Engineering undergraduate student at the Indian Institute of Technology BHU (Varanasi) pursuing a Bachelor of Technology in my second year.  
