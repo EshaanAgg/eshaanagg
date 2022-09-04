@@ -103,6 +103,10 @@
 
 <br/>  
 
+## Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31rh4joclzgs4wv7qpev7nj35iee&cover_image=true&theme=default" /></div>  
 
