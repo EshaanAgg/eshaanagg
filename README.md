@@ -107,9 +107,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1102](https://github.com/llaske/sugarizer/issues/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
 2. 🗣 Commented on [#1102](https://github.com/llaske/sugarizer/issues/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
-3. 🗣 Commented on [#1090](https://github.com/llaske/sugarizer/issues/1090) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
-4. 💪 Opened PR [#1102](https://github.com/llaske/sugarizer/pull/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
-5. 💪 Opened PR [#4](https://github.com/COPS-CSOC-2022/CSOC-2022-week-5-Express-Apis/pull/4) in [COPS-CSOC-2022/CSOC-2022-week-5-Express-Apis](https://github.com/COPS-CSOC-2022/CSOC-2022-week-5-Express-Apis)
+3. 🗣 Commented on [#1102](https://github.com/llaske/sugarizer/issues/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
+4. 🗣 Commented on [#1090](https://github.com/llaske/sugarizer/issues/1090) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
+5. 💪 Opened PR [#1102](https://github.com/llaske/sugarizer/pull/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
 <!--END_SECTION:activity-->
 
 
