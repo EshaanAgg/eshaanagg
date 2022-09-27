@@ -105,11 +105,11 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1102](https://github.com/llaske/sugarizer/issues/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
+1. 🗣 Commented on [#15968](https://github.com/oppia/oppia/issues/15968) in [oppia/oppia](https://github.com/oppia/oppia)
 2. 🗣 Commented on [#1102](https://github.com/llaske/sugarizer/issues/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
 3. 🗣 Commented on [#1102](https://github.com/llaske/sugarizer/issues/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
-4. 🗣 Commented on [#1090](https://github.com/llaske/sugarizer/issues/1090) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
-5. 💪 Opened PR [#1102](https://github.com/llaske/sugarizer/pull/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
+4. 🗣 Commented on [#1102](https://github.com/llaske/sugarizer/issues/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
+5. 🗣 Commented on [#1090](https://github.com/llaske/sugarizer/issues/1090) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
 <!--END_SECTION:activity-->
 
 
