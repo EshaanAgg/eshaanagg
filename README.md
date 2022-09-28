@@ -105,11 +105,11 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15968](https://github.com/oppia/oppia/issues/15968) in [oppia/oppia](https://github.com/oppia/oppia)
-2. 🗣 Commented on [#1102](https://github.com/llaske/sugarizer/issues/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
-3. 🗣 Commented on [#1102](https://github.com/llaske/sugarizer/issues/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
-4. 🗣 Commented on [#1102](https://github.com/llaske/sugarizer/issues/1102) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
-5. 🗣 Commented on [#1090](https://github.com/llaske/sugarizer/issues/1090) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
+1. ❗️ Opened issue [#4](https://github.com/Susmita-Dey/TextUtils/issues/4) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+2. 🗣 Commented on [#3](https://github.com/Susmita-Dey/TextUtils/issues/3) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+3. ❗️ Opened issue [#3](https://github.com/Susmita-Dey/TextUtils/issues/3) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+4. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+5. 🗣 Commented on [#15968](https://github.com/oppia/oppia/issues/15968) in [oppia/oppia](https://github.com/oppia/oppia)
 <!--END_SECTION:activity-->
 
 
