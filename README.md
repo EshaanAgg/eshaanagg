@@ -105,11 +105,11 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/aditya-singh9/ExpressJS-Snippets/issues/4) in [aditya-singh9/ExpressJS-Snippets](https://github.com/aditya-singh9/ExpressJS-Snippets)
-2. 🗣 Commented on [#211](https://github.com/AykutSarac/jsoncrack.com/issues/211) in [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
-3. ❗️ Opened issue [#211](https://github.com/AykutSarac/jsoncrack.com/issues/211) in [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
-4. 🗣 Commented on [#22](https://github.com/Susmita-Dey/all-round-calculator/issues/22) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-5. 🗣 Commented on [#4](https://github.com/Susmita-Dey/TextUtils/issues/4) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+1. 🗣 Commented on [#30](https://github.com/Susmita-Dey/all-round-calculator/issues/30) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+2. 💪 Opened PR [#213](https://github.com/AykutSarac/jsoncrack.com/pull/213) in [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+3. 💪 Opened PR [#2050](https://github.com/validatorjs/validator.js/pull/2050) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+4. 💪 Opened PR [#7](https://github.com/aditya-singh9/ExpressJS-Snippets/pull/7) in [aditya-singh9/ExpressJS-Snippets](https://github.com/aditya-singh9/ExpressJS-Snippets)
+5. 💪 Opened PR [#30](https://github.com/Susmita-Dey/all-round-calculator/pull/30) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
 <!--END_SECTION:activity-->
 
 
