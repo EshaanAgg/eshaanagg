@@ -105,11 +105,11 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/Susmita-Dey/all-round-calculator/issues/30) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
-2. 💪 Opened PR [#213](https://github.com/AykutSarac/jsoncrack.com/pull/213) in [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
-3. 💪 Opened PR [#2050](https://github.com/validatorjs/validator.js/pull/2050) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
-4. 💪 Opened PR [#7](https://github.com/aditya-singh9/ExpressJS-Snippets/pull/7) in [aditya-singh9/ExpressJS-Snippets](https://github.com/aditya-singh9/ExpressJS-Snippets)
-5. 💪 Opened PR [#30](https://github.com/Susmita-Dey/all-round-calculator/pull/30) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+1. ❗️ Opened issue [#98](https://github.com/COPS-IITBHU/sdg-site/issues/98) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#30](https://github.com/Susmita-Dey/all-round-calculator/issues/30) in [Susmita-Dey/all-round-calculator](https://github.com/Susmita-Dey/all-round-calculator)
+3. 💪 Opened PR [#213](https://github.com/AykutSarac/jsoncrack.com/pull/213) in [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
+4. 💪 Opened PR [#2050](https://github.com/validatorjs/validator.js/pull/2050) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+5. 💪 Opened PR [#7](https://github.com/aditya-singh9/ExpressJS-Snippets/pull/7) in [aditya-singh9/ExpressJS-Snippets](https://github.com/aditya-singh9/ExpressJS-Snippets)
 <!--END_SECTION:activity-->
 
 
