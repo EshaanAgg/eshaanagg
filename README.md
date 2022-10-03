@@ -106,10 +106,10 @@
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#106](https://github.com/COPS-IITBHU/sdg-site/issues/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. 💪 Opened PR [#106](https://github.com/COPS-IITBHU/sdg-site/pull/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. ❗️ Opened issue [#104](https://github.com/COPS-IITBHU/sdg-site/issues/104) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 💪 Opened PR [#102](https://github.com/COPS-IITBHU/sdg-site/pull/102) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 🗣 Commented on [#327](https://github.com/meilisearch/demo-movies/issues/327) in [meilisearch/demo-movies](https://github.com/meilisearch/demo-movies)
+2. 🗣 Commented on [#106](https://github.com/COPS-IITBHU/sdg-site/issues/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. 💪 Opened PR [#106](https://github.com/COPS-IITBHU/sdg-site/pull/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. ❗️ Opened issue [#104](https://github.com/COPS-IITBHU/sdg-site/issues/104) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. 💪 Opened PR [#102](https://github.com/COPS-IITBHU/sdg-site/pull/102) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 
