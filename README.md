@@ -106,10 +106,10 @@
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16230](https://github.com/oppia/oppia/issues/16230) in [oppia/oppia](https://github.com/oppia/oppia)
-2. 💪 Opened PR [#2](https://github.com/vaibhav-1508/expense-tracker/pull/2) in [vaibhav-1508/expense-tracker](https://github.com/vaibhav-1508/expense-tracker)
-3. ❗️ Opened issue [#1](https://github.com/vaibhav-1508/expense-tracker/issues/1) in [vaibhav-1508/expense-tracker](https://github.com/vaibhav-1508/expense-tracker)
-4. 💪 Opened PR [#16230](https://github.com/oppia/oppia/pull/16230) in [oppia/oppia](https://github.com/oppia/oppia)
-5. 🗣 Commented on [#106](https://github.com/COPS-IITBHU/sdg-site/issues/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#4224](https://github.com/appwrite/appwrite/issues/4224) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. 🗣 Commented on [#16230](https://github.com/oppia/oppia/issues/16230) in [oppia/oppia](https://github.com/oppia/oppia)
+4. 💪 Opened PR [#2](https://github.com/vaibhav-1508/expense-tracker/pull/2) in [vaibhav-1508/expense-tracker](https://github.com/vaibhav-1508/expense-tracker)
+5. ❗️ Opened issue [#1](https://github.com/vaibhav-1508/expense-tracker/issues/1) in [vaibhav-1508/expense-tracker](https://github.com/vaibhav-1508/expense-tracker)
 <!--END_SECTION:activity-->
 
 
