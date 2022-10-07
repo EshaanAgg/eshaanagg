@@ -105,11 +105,11 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/COPS-IITBHU/sdg-site/issues/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 💪 Opened PR [#16230](https://github.com/oppia/oppia/pull/16230) in [oppia/oppia](https://github.com/oppia/oppia)
 2. 🗣 Commented on [#106](https://github.com/COPS-IITBHU/sdg-site/issues/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 💪 Opened PR [#106](https://github.com/COPS-IITBHU/sdg-site/pull/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. ❗️ Opened issue [#104](https://github.com/COPS-IITBHU/sdg-site/issues/104) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 💪 Opened PR [#102](https://github.com/COPS-IITBHU/sdg-site/pull/102) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. 🗣 Commented on [#106](https://github.com/COPS-IITBHU/sdg-site/issues/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 💪 Opened PR [#106](https://github.com/COPS-IITBHU/sdg-site/pull/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. ❗️ Opened issue [#104](https://github.com/COPS-IITBHU/sdg-site/issues/104) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 
