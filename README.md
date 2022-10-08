@@ -105,11 +105,11 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1141](https://github.com/mattermost/mattermost-developer-documentation/issues/1141) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. 🗣 Commented on [#16230](https://github.com/oppia/oppia/issues/16230) in [oppia/oppia](https://github.com/oppia/oppia)
-3. 🗣 Commented on [#4224](https://github.com/appwrite/appwrite/issues/4224) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. 🗣 Commented on [#16230](https://github.com/oppia/oppia/issues/16230) in [oppia/oppia](https://github.com/oppia/oppia)
-5. 💪 Opened PR [#2](https://github.com/vaibhav-1508/expense-tracker/pull/2) in [vaibhav-1508/expense-tracker](https://github.com/vaibhav-1508/expense-tracker)
+1. ❌ Closed PR [#17](https://github.com/Susmita-Dey/TextUtils/pull/17) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+2. ❌ Closed PR [#16](https://github.com/Susmita-Dey/TextUtils/pull/16) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+3. ❌ Closed PR [#2050](https://github.com/validatorjs/validator.js/pull/2050) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+4. 🗣 Commented on [#1147](https://github.com/mattermost/mattermost-developer-documentation/issues/1147) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+5. 💪 Opened PR [#1147](https://github.com/mattermost/mattermost-developer-documentation/pull/1147) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 <!--END_SECTION:activity-->
 
 
