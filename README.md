@@ -105,11 +105,11 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3228](https://github.com/mindsdb/mindsdb/issues/3228) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#3226](https://github.com/mindsdb/mindsdb/issues/3226) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-3. 🗣 Commented on [#3228](https://github.com/mindsdb/mindsdb/issues/3228) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-4. ❌ Closed PR [#17](https://github.com/Susmita-Dey/TextUtils/pull/17) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
-5. ❌ Closed PR [#16](https://github.com/Susmita-Dey/TextUtils/pull/16) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+1. 🗣 Commented on [#4353](https://github.com/appwrite/appwrite/issues/4353) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#3228](https://github.com/mindsdb/mindsdb/issues/3228) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+3. 🗣 Commented on [#3226](https://github.com/mindsdb/mindsdb/issues/3226) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+4. 🗣 Commented on [#3228](https://github.com/mindsdb/mindsdb/issues/3228) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+5. ❌ Closed PR [#17](https://github.com/Susmita-Dey/TextUtils/pull/17) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
 <!--END_SECTION:activity-->
 
 
