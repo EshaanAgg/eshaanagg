@@ -105,11 +105,11 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/utopia-php/analytics/issues/26) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
-2. 🗣 Commented on [#4353](https://github.com/appwrite/appwrite/issues/4353) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-3. 💪 Opened PR [#26](https://github.com/utopia-php/analytics/pull/26) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
+1. 🗣 Commented on [#4224](https://github.com/appwrite/appwrite/issues/4224) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 💪 Opened PR [#438](https://github.com/appwrite/awesome-appwrite/pull/438) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+3. 🗣 Commented on [#26](https://github.com/utopia-php/analytics/issues/26) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
 4. 🗣 Commented on [#4353](https://github.com/appwrite/appwrite/issues/4353) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. 🗣 Commented on [#3228](https://github.com/mindsdb/mindsdb/issues/3228) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+5. 💪 Opened PR [#26](https://github.com/utopia-php/analytics/pull/26) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
 <!--END_SECTION:activity-->
 
 
