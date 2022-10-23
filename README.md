@@ -1,11 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+![Header GIF](assets/header.gif)
+
 <br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=eshaanagg&&style=flat-square" align="center" />
+&nbsp;
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Deshaanagg&longCache=true" align="center" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/eshaanagg?label=Stars" alt="stars" align="center">
 </div>
 
 <br>
