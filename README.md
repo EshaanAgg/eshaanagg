@@ -95,11 +95,12 @@
 <br/>
 
 <h2>Github Stats</h2>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eshaanagg&show_icons=true&count_private=true&theme=tokyonight" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=eshaanagg&show_icons=true&count_private=true&theme=tokyonight" align="center" />  
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaanagg&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" /> <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaanagg&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" /> 
+<br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshaanagg&theme=tokyonight" align="center" />
-<br><br>
+<br />
 
 ## Contribution
 
