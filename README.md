@@ -115,9 +115,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9802](https://github.com/supabase/supabase/pull/9802) in [supabase/supabase](https://github.com/supabase/supabase)
-2. 🗣 Commented on [#438](https://github.com/appwrite/awesome-appwrite/issues/438) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+1. 🗣 Commented on [#438](https://github.com/appwrite/awesome-appwrite/issues/438) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+2. 💪 Opened PR [#9802](https://github.com/supabase/supabase/pull/9802) in [supabase/supabase](https://github.com/supabase/supabase)
 3. 🗣 Commented on [#438](https://github.com/appwrite/awesome-appwrite/issues/438) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
 4. 🗣 Commented on [#438](https://github.com/appwrite/awesome-appwrite/issues/438) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
-5. ❗️ Opened issue [#9685](https://github.com/supabase/supabase/issues/9685) in [supabase/supabase](https://github.com/supabase/supabase)
+5. 🗣 Commented on [#438](https://github.com/appwrite/awesome-appwrite/issues/438) in [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
 <!--END_SECTION:activity-->
