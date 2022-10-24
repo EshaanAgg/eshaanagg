@@ -104,8 +104,8 @@
 
 ## Contribution
 
-![Snake animation](https://raw.githubusercontent.com/eshaanagg/eshaanagg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/eshaanagg/eshaanagg/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/EshaanAgg/eshaanagg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/eshaanagg/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=eshaanagg&theme=react-dark&hide_border=true&area=true)
 
