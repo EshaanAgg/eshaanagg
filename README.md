@@ -115,9 +115,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16](https://github.com/EshaanAgg/Freshers-Bot/pull/16) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
-2. 🎉 Merged PR [#15](https://github.com/EshaanAgg/Freshers-Bot/pull/15) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
-3. 🎉 Merged PR [#14](https://github.com/EshaanAgg/Freshers-Bot/pull/14) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
-4. 🗣 Commented on [#1](https://github.com/IamEzio/IamEzio/issues/1) in [IamEzio/IamEzio](https://github.com/IamEzio/IamEzio)
-5. 🎉 Merged PR [#13](https://github.com/EshaanAgg/Freshers-Bot/pull/13) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
+1. 🎉 Merged PR [#17](https://github.com/EshaanAgg/Freshers-Bot/pull/17) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
+2. 🎉 Merged PR [#16](https://github.com/EshaanAgg/Freshers-Bot/pull/16) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
+3. 🎉 Merged PR [#15](https://github.com/EshaanAgg/Freshers-Bot/pull/15) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
+4. 🎉 Merged PR [#14](https://github.com/EshaanAgg/Freshers-Bot/pull/14) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
+5. 🗣 Commented on [#1](https://github.com/IamEzio/IamEzio/issues/1) in [IamEzio/IamEzio](https://github.com/IamEzio/IamEzio)
 <!--END_SECTION:activity-->
