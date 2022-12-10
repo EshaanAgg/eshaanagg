@@ -115,9 +115,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#128](https://github.com/COPS-IITBHU/sdg-site/issues/128) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. ❗️ Opened issue [#127](https://github.com/COPS-IITBHU/sdg-site/issues/127) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. ❗️ Opened issue [#126](https://github.com/COPS-IITBHU/sdg-site/issues/126) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. ❗️ Opened issue [#125](https://github.com/COPS-IITBHU/sdg-site/issues/125) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. ❗️ Opened issue [#124](https://github.com/COPS-IITBHU/sdg-site/issues/124) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. ❗️ Opened issue [#136](https://github.com/COPS-IITBHU/sdg-site/issues/136) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#135](https://github.com/COPS-IITBHU/sdg-site/issues/135) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. ❗️ Opened issue [#135](https://github.com/COPS-IITBHU/sdg-site/issues/135) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. ❗️ Opened issue [#134](https://github.com/COPS-IITBHU/sdg-site/issues/134) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. ❗️ Opened issue [#133](https://github.com/COPS-IITBHU/sdg-site/issues/133) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
