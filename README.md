@@ -115,9 +115,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/EshaanAgg/Research-Literature-Manager/pull/1) in [EshaanAgg/Research-Literature-Manager](https://github.com/EshaanAgg/Research-Literature-Manager)
-2. 💪 Opened PR [#1](https://github.com/EshaanAgg/Research-Literature-Manager/pull/1) in [EshaanAgg/Research-Literature-Manager](https://github.com/EshaanAgg/Research-Literature-Manager)
-3. 🎉 Merged PR [#19](https://github.com/EshaanAgg/Freshers-Bot/pull/19) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
-4. 🎉 Merged PR [#18](https://github.com/EshaanAgg/Freshers-Bot/pull/18) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
-5. 🎉 Merged PR [#17](https://github.com/EshaanAgg/Freshers-Bot/pull/17) in [EshaanAgg/Freshers-Bot](https://github.com/EshaanAgg/Freshers-Bot)
+1. ❗️ Opened issue [#128](https://github.com/COPS-IITBHU/sdg-site/issues/128) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. ❗️ Opened issue [#127](https://github.com/COPS-IITBHU/sdg-site/issues/127) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. ❗️ Opened issue [#126](https://github.com/COPS-IITBHU/sdg-site/issues/126) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. ❗️ Opened issue [#125](https://github.com/COPS-IITBHU/sdg-site/issues/125) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. ❗️ Opened issue [#124](https://github.com/COPS-IITBHU/sdg-site/issues/124) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
