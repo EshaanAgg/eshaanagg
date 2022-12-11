@@ -115,9 +115,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#137](https://github.com/COPS-IITBHU/sdg-site/pull/137) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. ❌ Closed PR [#106](https://github.com/COPS-IITBHU/sdg-site/pull/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🗣 Commented on [#1](https://github.com/COPS-IITBHU/Study-Portal/issues/1) in [COPS-IITBHU/Study-Portal](https://github.com/COPS-IITBHU/Study-Portal)
-4. ❗️ Opened issue [#136](https://github.com/COPS-IITBHU/sdg-site/issues/136) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 🗣 Commented on [#135](https://github.com/COPS-IITBHU/sdg-site/issues/135) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 💪 Opened PR [#138](https://github.com/COPS-IITBHU/sdg-site/pull/138) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 💪 Opened PR [#137](https://github.com/COPS-IITBHU/sdg-site/pull/137) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+3. ❌ Closed PR [#106](https://github.com/COPS-IITBHU/sdg-site/pull/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🗣 Commented on [#1](https://github.com/COPS-IITBHU/Study-Portal/issues/1) in [COPS-IITBHU/Study-Portal](https://github.com/COPS-IITBHU/Study-Portal)
+5. ❗️ Opened issue [#136](https://github.com/COPS-IITBHU/sdg-site/issues/136) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
