@@ -115,9 +115,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5893](https://github.com/processing/p5.js/issues/5893) in [processing/p5.js](https://github.com/processing/p5.js)
-2. ❗️ Opened issue [#5893](https://github.com/processing/p5.js/issues/5893) in [processing/p5.js](https://github.com/processing/p5.js)
-3. 💪 Opened PR [#138](https://github.com/COPS-IITBHU/sdg-site/pull/138) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 💪 Opened PR [#137](https://github.com/COPS-IITBHU/sdg-site/pull/137) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. ❌ Closed PR [#106](https://github.com/COPS-IITBHU/sdg-site/pull/106) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 🗣 Commented on [#137](https://github.com/COPS-IITBHU/sdg-site/issues/137) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#5893](https://github.com/processing/p5.js/issues/5893) in [processing/p5.js](https://github.com/processing/p5.js)
+3. ❗️ Opened issue [#5893](https://github.com/processing/p5.js/issues/5893) in [processing/p5.js](https://github.com/processing/p5.js)
+4. 💪 Opened PR [#138](https://github.com/COPS-IITBHU/sdg-site/pull/138) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+5. 💪 Opened PR [#137](https://github.com/COPS-IITBHU/sdg-site/pull/137) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
