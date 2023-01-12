@@ -115,9 +115,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple/pull/2) in [Shubhrajyoti-Dey-FrosTiK/grow-simple](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple)
-2. 🗣 Commented on [#1](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple/issues/1) in [Shubhrajyoti-Dey-FrosTiK/grow-simple](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple)
-3. 💪 Opened PR [#1](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple/pull/1) in [Shubhrajyoti-Dey-FrosTiK/grow-simple](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple)
-4. 🗣 Commented on [#33](https://github.com/utopia-php/analytics/issues/33) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
-5. ❌ Closed PR [#26](https://github.com/utopia-php/analytics/pull/26) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
+1. ❌ Closed PR [#2](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple/pull/2) in [Shubhrajyoti-Dey-FrosTiK/grow-simple](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple)
+2. 💪 Opened PR [#2](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple/pull/2) in [Shubhrajyoti-Dey-FrosTiK/grow-simple](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple)
+3. 🗣 Commented on [#1](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple/issues/1) in [Shubhrajyoti-Dey-FrosTiK/grow-simple](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple)
+4. 💪 Opened PR [#1](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple/pull/1) in [Shubhrajyoti-Dey-FrosTiK/grow-simple](https://github.com/Shubhrajyoti-Dey-FrosTiK/grow-simple)
+5. 🗣 Commented on [#33](https://github.com/utopia-php/analytics/issues/33) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
 <!--END_SECTION:activity-->
