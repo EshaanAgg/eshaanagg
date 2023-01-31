@@ -115,9 +115,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#834](https://github.com/romanz/electrs/issues/834) in [romanz/electrs](https://github.com/romanz/electrs)
-2. 💪 Opened PR [#833](https://github.com/romanz/electrs/pull/833) in [romanz/electrs](https://github.com/romanz/electrs)
-3. 🎉 Merged PR [#3](https://github.com/EshaanAgg/Freshers-Namecards/pull/3) in [EshaanAgg/Freshers-Namecards](https://github.com/EshaanAgg/Freshers-Namecards)
-4. 🗣 Commented on [#33](https://github.com/utopia-php/analytics/issues/33) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
-5. ❌ Closed PR [#26](https://github.com/utopia-php/analytics/pull/26) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
+1. 🗣 Commented on [#961](https://github.com/PalisadoesFoundation/talawa-api/issues/961) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. ❗️ Opened issue [#961](https://github.com/PalisadoesFoundation/talawa-api/issues/961) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+3. ❗️ Opened issue [#834](https://github.com/romanz/electrs/issues/834) in [romanz/electrs](https://github.com/romanz/electrs)
+4. 💪 Opened PR [#833](https://github.com/romanz/electrs/pull/833) in [romanz/electrs](https://github.com/romanz/electrs)
+5. 🎉 Merged PR [#3](https://github.com/EshaanAgg/Freshers-Namecards/pull/3) in [EshaanAgg/Freshers-Namecards](https://github.com/EshaanAgg/Freshers-Namecards)
 <!--END_SECTION:activity-->
