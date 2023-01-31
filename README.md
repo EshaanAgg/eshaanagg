@@ -118,6 +118,6 @@
 1. 🗣 Commented on [#961](https://github.com/PalisadoesFoundation/talawa-api/issues/961) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 2. 🗣 Commented on [#961](https://github.com/PalisadoesFoundation/talawa-api/issues/961) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 3. 🗣 Commented on [#961](https://github.com/PalisadoesFoundation/talawa-api/issues/961) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. ❗️ Opened issue [#961](https://github.com/PalisadoesFoundation/talawa-api/issues/961) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. ❗️ Opened issue [#834](https://github.com/romanz/electrs/issues/834) in [romanz/electrs](https://github.com/romanz/electrs)
+4. 🗣 Commented on [#961](https://github.com/PalisadoesFoundation/talawa-api/issues/961) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. 🗣 Commented on [#961](https://github.com/PalisadoesFoundation/talawa-api/issues/961) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
