@@ -115,9 +115,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/EshaanAgg/Freshers-Namecards/pull/3) in [EshaanAgg/Freshers-Namecards](https://github.com/EshaanAgg/Freshers-Namecards)
-2. 🗣 Commented on [#33](https://github.com/utopia-php/analytics/issues/33) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
-3. ❌ Closed PR [#26](https://github.com/utopia-php/analytics/pull/26) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
-4. 🗣 Commented on [#26](https://github.com/utopia-php/analytics/issues/26) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
-5. 💪 Opened PR [#33](https://github.com/utopia-php/analytics/pull/33) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
+1. 💪 Opened PR [#833](https://github.com/romanz/electrs/pull/833) in [romanz/electrs](https://github.com/romanz/electrs)
+2. 🎉 Merged PR [#3](https://github.com/EshaanAgg/Freshers-Namecards/pull/3) in [EshaanAgg/Freshers-Namecards](https://github.com/EshaanAgg/Freshers-Namecards)
+3. 🗣 Commented on [#33](https://github.com/utopia-php/analytics/issues/33) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
+4. ❌ Closed PR [#26](https://github.com/utopia-php/analytics/pull/26) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
+5. 🗣 Commented on [#26](https://github.com/utopia-php/analytics/issues/26) in [utopia-php/analytics](https://github.com/utopia-php/analytics)
 <!--END_SECTION:activity-->
