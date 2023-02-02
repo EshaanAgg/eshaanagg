@@ -115,9 +115,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#837](https://github.com/romanz/electrs/issues/837) in [romanz/electrs](https://github.com/romanz/electrs)
-2. ❗️ Opened issue [#837](https://github.com/romanz/electrs/issues/837) in [romanz/electrs](https://github.com/romanz/electrs)
-3. 🗣 Commented on [#834](https://github.com/romanz/electrs/issues/834) in [romanz/electrs](https://github.com/romanz/electrs)
-4. 🗣 Commented on [#429](https://github.com/PalisadoesFoundation/talawa-admin/issues/429) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-5. ❗️ Opened issue [#429](https://github.com/PalisadoesFoundation/talawa-admin/issues/429) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+1. 🗣 Commented on [#964](https://github.com/PalisadoesFoundation/talawa-api/issues/964) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🗣 Commented on [#837](https://github.com/romanz/electrs/issues/837) in [romanz/electrs](https://github.com/romanz/electrs)
+3. ❗️ Opened issue [#837](https://github.com/romanz/electrs/issues/837) in [romanz/electrs](https://github.com/romanz/electrs)
+4. 🗣 Commented on [#834](https://github.com/romanz/electrs/issues/834) in [romanz/electrs](https://github.com/romanz/electrs)
+5. 🗣 Commented on [#429](https://github.com/PalisadoesFoundation/talawa-admin/issues/429) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
 <!--END_SECTION:activity-->
