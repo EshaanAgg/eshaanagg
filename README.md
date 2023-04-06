@@ -108,7 +108,7 @@
 
 1. 🗣 Commented on [#1247](https://github.com/PalisadoesFoundation/talawa-api/issues/1247) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 2. 🗣 Commented on [#1247](https://github.com/PalisadoesFoundation/talawa-api/issues/1247) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🎉 Merged PR [#2](https://github.com/vaibhav-1508/js_assignment/pull/2) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
-4. 💪 Opened PR [#2](https://github.com/vaibhav-1508/js_assignment/pull/2) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
-5. 💪 Opened PR [#1259](https://github.com/PalisadoesFoundation/talawa-api/pull/1259) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+3. 🗣 Commented on [#1247](https://github.com/PalisadoesFoundation/talawa-api/issues/1247) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. 🎉 Merged PR [#2](https://github.com/vaibhav-1508/js_assignment/pull/2) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
+5. 💪 Opened PR [#2](https://github.com/vaibhav-1508/js_assignment/pull/2) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
 <!--END_SECTION:activity-->
