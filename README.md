@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1351](https://github.com/processing/p5.js-website/issues/1351) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
-2. ❗️ Opened issue [#1351](https://github.com/processing/p5.js-website/issues/1351) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
-3. 🗣 Commented on [#1247](https://github.com/PalisadoesFoundation/talawa-api/issues/1247) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🗣 Commented on [#1247](https://github.com/PalisadoesFoundation/talawa-api/issues/1247) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 🗣 Commented on [#445](https://github.com/processing/processing-website/issues/445) in [processing/processing-website](https://github.com/processing/processing-website)
+2. 🗣 Commented on [#446](https://github.com/processing/processing-website/issues/446) in [processing/processing-website](https://github.com/processing/processing-website)
+3. 🗣 Commented on [#1351](https://github.com/processing/p5.js-website/issues/1351) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
+4. ❗️ Opened issue [#1351](https://github.com/processing/p5.js-website/issues/1351) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
 5. 🗣 Commented on [#1247](https://github.com/PalisadoesFoundation/talawa-api/issues/1247) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
