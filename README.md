@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1247](https://github.com/PalisadoesFoundation/talawa-api/issues/1247) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. ❗️ Closed issue [#8](https://github.com/vaibhav-1508/js_assignment/issues/8) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
-3. 🗣 Commented on [#8](https://github.com/vaibhav-1508/js_assignment/issues/8) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
-4. ❗️ Closed issue [#6](https://github.com/vaibhav-1508/js_assignment/issues/6) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
-5. 🗣 Commented on [#6](https://github.com/vaibhav-1508/js_assignment/issues/6) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
+1. ❗️ Closed issue [#33](https://github.com/COPS-IITBHU/DevTalks/issues/33) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
+2. ❗️ Closed issue [#4](https://github.com/Susmita-Dey/TextUtils/issues/4) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+3. ❗️ Closed issue [#3](https://github.com/Susmita-Dey/TextUtils/issues/3) in [Susmita-Dey/TextUtils](https://github.com/Susmita-Dey/TextUtils)
+4. ❗️ Closed issue [#839](https://github.com/romanz/electrs/issues/839) in [romanz/electrs](https://github.com/romanz/electrs)
+5. 🗣 Commented on [#1277](https://github.com/PalisadoesFoundation/talawa-api/issues/1277) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
