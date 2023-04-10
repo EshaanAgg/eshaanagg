@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#8](https://github.com/vaibhav-1508/js_assignment/issues/8) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
-2. 🗣 Commented on [#8](https://github.com/vaibhav-1508/js_assignment/issues/8) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
-3. ❗️ Closed issue [#6](https://github.com/vaibhav-1508/js_assignment/issues/6) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
-4. 🗣 Commented on [#6](https://github.com/vaibhav-1508/js_assignment/issues/6) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
-5. 🗣 Commented on [#10](https://github.com/vaibhav-1508/js_assignment/issues/10) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
+1. 🗣 Commented on [#1247](https://github.com/PalisadoesFoundation/talawa-api/issues/1247) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. ❗️ Closed issue [#8](https://github.com/vaibhav-1508/js_assignment/issues/8) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
+3. 🗣 Commented on [#8](https://github.com/vaibhav-1508/js_assignment/issues/8) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
+4. ❗️ Closed issue [#6](https://github.com/vaibhav-1508/js_assignment/issues/6) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
+5. 🗣 Commented on [#6](https://github.com/vaibhav-1508/js_assignment/issues/6) in [vaibhav-1508/js_assignment](https://github.com/vaibhav-1508/js_assignment)
 <!--END_SECTION:activity-->
