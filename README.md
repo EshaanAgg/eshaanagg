@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#446](https://github.com/processing/processing-website/issues/446) in [processing/processing-website](https://github.com/processing/processing-website)
-2. 🗣 Commented on [#1306](https://github.com/PalisadoesFoundation/talawa-api/issues/1306) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🗣 Commented on [#1309](https://github.com/PalisadoesFoundation/talawa-api/issues/1309) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. ❗️ Opened issue [#1309](https://github.com/PalisadoesFoundation/talawa-api/issues/1309) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. ❗️ Closed issue [#888](https://github.com/PalisadoesFoundation/talawa-admin/issues/888) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+1. 💪 Opened PR [#1332](https://github.com/PalisadoesFoundation/talawa-api/pull/1332) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🗣 Commented on [#446](https://github.com/processing/processing-website/issues/446) in [processing/processing-website](https://github.com/processing/processing-website)
+3. 🗣 Commented on [#1306](https://github.com/PalisadoesFoundation/talawa-api/issues/1306) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. 🗣 Commented on [#1309](https://github.com/PalisadoesFoundation/talawa-api/issues/1309) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. ❗️ Opened issue [#1309](https://github.com/PalisadoesFoundation/talawa-api/issues/1309) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
