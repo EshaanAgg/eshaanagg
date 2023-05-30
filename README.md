@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/EshaanAgg/Leetcode_Practice_Frontend/issues/1) in [EshaanAgg/Leetcode_Practice_Frontend](https://github.com/EshaanAgg/Leetcode_Practice_Frontend)
-2. 🗣 Commented on [#1332](https://github.com/PalisadoesFoundation/talawa-api/issues/1332) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🗣 Commented on [#1332](https://github.com/PalisadoesFoundation/talawa-api/issues/1332) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🗣 Commented on [#1187](https://github.com/PalisadoesFoundation/talawa-api/issues/1187) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. 🗣 Commented on [#1335](https://github.com/PalisadoesFoundation/talawa-api/issues/1335) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 🗣 Commented on [#4](https://github.com/CSOC-23/CSOC23-Week-0/issues/4) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+2. 🎉 Merged PR [#4](https://github.com/CSOC-23/CSOC23-Week-0/pull/4) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+3. 🗣 Commented on [#3](https://github.com/CSOC-23/CSOC23-Week-0/issues/3) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+4. 🎉 Merged PR [#2](https://github.com/CSOC-23/CSOC23-Week-0/pull/2) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+5. 🗣 Commented on [#1](https://github.com/EshaanAgg/Leetcode_Practice_Frontend/issues/1) in [EshaanAgg/Leetcode_Practice_Frontend](https://github.com/EshaanAgg/Leetcode_Practice_Frontend)
 <!--END_SECTION:activity-->
