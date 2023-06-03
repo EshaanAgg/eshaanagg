@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#835](https://github.com/PalisadoesFoundation/talawa-admin/issues/835) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-2. 🗣 Commented on [#835](https://github.com/PalisadoesFoundation/talawa-admin/issues/835) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-3. 🗣 Commented on [#3](https://github.com/CSOC-23/CSOC23-Week-0/issues/3) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-4. 🎉 Merged PR [#3](https://github.com/CSOC-23/CSOC23-Week-0/pull/3) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-5. ❌ Closed PR [#1332](https://github.com/PalisadoesFoundation/talawa-api/pull/1332) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 🎉 Merged PR [#39](https://github.com/CSOC-23/CSOC23-Week-0/pull/39) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+2. 🗣 Commented on [#25](https://github.com/CSOC-23/CSOC23-Week-0/issues/25) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+3. 🗣 Commented on [#31](https://github.com/CSOC-23/CSOC23-Week-0/issues/31) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+4. 🗣 Commented on [#32](https://github.com/CSOC-23/CSOC23-Week-0/issues/32) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+5. 🗣 Commented on [#36](https://github.com/CSOC-23/CSOC23-Week-0/issues/36) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
 <!--END_SECTION:activity-->
