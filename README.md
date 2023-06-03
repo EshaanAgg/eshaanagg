@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/Nandinisaagar/Nandinisaagar/issues/1) in [Nandinisaagar/Nandinisaagar](https://github.com/Nandinisaagar/Nandinisaagar)
-2. 🎉 Merged PR [#39](https://github.com/CSOC-23/CSOC23-Week-0/pull/39) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-3. 🗣 Commented on [#25](https://github.com/CSOC-23/CSOC23-Week-0/issues/25) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-4. 🗣 Commented on [#31](https://github.com/CSOC-23/CSOC23-Week-0/issues/31) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-5. 🗣 Commented on [#32](https://github.com/CSOC-23/CSOC23-Week-0/issues/32) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+1. 🗣 Commented on [#32](https://github.com/CSOC-23/CSOC23-Week-0/issues/32) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+2. 🗣 Commented on [#36](https://github.com/CSOC-23/CSOC23-Week-0/issues/36) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+3. 🗣 Commented on [#38](https://github.com/CSOC-23/CSOC23-Week-0/issues/38) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+4. 🗣 Commented on [#42](https://github.com/CSOC-23/CSOC23-Week-0/issues/42) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+5. 🗣 Commented on [#43](https://github.com/CSOC-23/CSOC23-Week-0/issues/43) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
 <!--END_SECTION:activity-->
