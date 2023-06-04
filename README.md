@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#55](https://github.com/CSOC-23/CSOC23-Week-0/pull/55) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-2. 🎉 Merged PR [#48](https://github.com/CSOC-23/CSOC23-Week-0/pull/48) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-3. 🎉 Merged PR [#42](https://github.com/CSOC-23/CSOC23-Week-0/pull/42) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-4. 🗣 Commented on [#55](https://github.com/CSOC-23/CSOC23-Week-0/issues/55) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-5. 🎉 Merged PR [#47](https://github.com/CSOC-23/CSOC23-Week-0/pull/47) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+1. 🗣 Commented on [#1187](https://github.com/PalisadoesFoundation/talawa-api/issues/1187) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🎉 Merged PR [#55](https://github.com/CSOC-23/CSOC23-Week-0/pull/55) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+3. 🎉 Merged PR [#48](https://github.com/CSOC-23/CSOC23-Week-0/pull/48) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+4. 🎉 Merged PR [#42](https://github.com/CSOC-23/CSOC23-Week-0/pull/42) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+5. 🗣 Commented on [#55](https://github.com/CSOC-23/CSOC23-Week-0/issues/55) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
 <!--END_SECTION:activity-->
