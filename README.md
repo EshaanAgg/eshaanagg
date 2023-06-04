@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#32](https://github.com/CSOC-23/CSOC23-Week-0/issues/32) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-2. 🗣 Commented on [#36](https://github.com/CSOC-23/CSOC23-Week-0/issues/36) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-3. 🗣 Commented on [#38](https://github.com/CSOC-23/CSOC23-Week-0/issues/38) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-4. 🗣 Commented on [#42](https://github.com/CSOC-23/CSOC23-Week-0/issues/42) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-5. 🗣 Commented on [#43](https://github.com/CSOC-23/CSOC23-Week-0/issues/43) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+1. 🎉 Merged PR [#42](https://github.com/CSOC-23/CSOC23-Week-0/pull/42) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+2. 🗣 Commented on [#55](https://github.com/CSOC-23/CSOC23-Week-0/issues/55) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+3. 🎉 Merged PR [#47](https://github.com/CSOC-23/CSOC23-Week-0/pull/47) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+4. ❌ Closed PR [#37](https://github.com/CSOC-23/CSOC23-Week-0/pull/37) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+5. 🗣 Commented on [#37](https://github.com/CSOC-23/CSOC23-Week-0/issues/37) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
 <!--END_SECTION:activity-->
