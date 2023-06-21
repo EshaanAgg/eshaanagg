@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1187](https://github.com/PalisadoesFoundation/talawa-api/issues/1187) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 🔒 Closed issue [#1309](https://github.com/PalisadoesFoundation/talawa-api/issues/1309) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🗣 Commented on [#1346](https://github.com/PalisadoesFoundation/talawa-api/issues/1346) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🎉 Merged PR [#103](https://github.com/CSOC-23/CSOC23-Week-0/pull/103) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
-5. 🎉 Merged PR [#106](https://github.com/CSOC-23/CSOC23-Week-0/pull/106) in [CSOC-23/CSOC23-Week-0](https://github.com/CSOC-23/CSOC23-Week-0)
+1. ❌ Closed PR [#38](https://github.com/CSOC-23/Week1-Web/pull/38) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
+2. 🗣 Commented on [#38](https://github.com/CSOC-23/Week1-Web/issues/38) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
+3. 🗣 Commented on [#44](https://github.com/CSOC-23/Week1-Web/issues/44) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
+4. ❌ Closed PR [#44](https://github.com/CSOC-23/Week1-Web/pull/44) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
+5. ❌ Closed PR [#41](https://github.com/CSOC-23/Week1-Web/pull/41) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
 <!--END_SECTION:activity-->
