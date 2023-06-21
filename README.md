@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#38](https://github.com/CSOC-23/Week1-Web/pull/38) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
-2. 🗣 Commented on [#38](https://github.com/CSOC-23/Week1-Web/issues/38) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
-3. 🗣 Commented on [#44](https://github.com/CSOC-23/Week1-Web/issues/44) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
-4. ❌ Closed PR [#44](https://github.com/CSOC-23/Week1-Web/pull/44) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
-5. ❌ Closed PR [#41](https://github.com/CSOC-23/Week1-Web/pull/41) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
+1. ❌ Closed PR [#23](https://github.com/CSOC-23/Week1-Web/pull/23) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
+2. 🗣 Commented on [#23](https://github.com/CSOC-23/Week1-Web/issues/23) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
+3. ❌ Closed PR [#45](https://github.com/CSOC-23/Week1-Web/pull/45) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
+4. 🗣 Commented on [#45](https://github.com/CSOC-23/Week1-Web/issues/45) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
+5. ❌ Closed PR [#36](https://github.com/CSOC-23/Week1-Web/pull/36) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
 <!--END_SECTION:activity-->
