@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1349](https://github.com/PalisadoesFoundation/talawa-api/pull/1349) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 🗣 Commented on [#1187](https://github.com/PalisadoesFoundation/talawa-api/issues/1187) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 🗣 Commented on [#1349](https://github.com/PalisadoesFoundation/talawa-api/issues/1349) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 💪 Opened PR [#1349](https://github.com/PalisadoesFoundation/talawa-api/pull/1349) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 3. 🗣 Commented on [#1187](https://github.com/PalisadoesFoundation/talawa-api/issues/1187) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. ❌ Closed PR [#23](https://github.com/CSOC-23/Week1-Web/pull/23) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
-5. 🗣 Commented on [#23](https://github.com/CSOC-23/Week1-Web/issues/23) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
+4. 🗣 Commented on [#1187](https://github.com/PalisadoesFoundation/talawa-api/issues/1187) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. ❌ Closed PR [#23](https://github.com/CSOC-23/Week1-Web/pull/23) in [CSOC-23/Week1-Web](https://github.com/CSOC-23/Week1-Web)
 <!--END_SECTION:activity-->
