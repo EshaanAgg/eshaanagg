@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.0](https://github.com/EshaanAgg/GophMail/releases/tag/1.0) in [EshaanAgg/GophMail](https://github.com/EshaanAgg/GophMail)
-2. 🚀 Published release [Initial Stable Release](https://github.com/EshaanAgg/GophMail/releases/tag/1.0) in [EshaanAgg/GophMail](https://github.com/EshaanAgg/GophMail)
-3. 🗣 Commented on [#1346](https://github.com/PalisadoesFoundation/talawa-api/issues/1346#issuecomment-1633004485) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🗣 Commented on [#1352](https://github.com/PalisadoesFoundation/talawa-api/issues/1352#issuecomment-1612034986) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. 🗣 Commented on [#1349](https://github.com/PalisadoesFoundation/talawa-api/pull/1349#issuecomment-1612029566) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 🗣 Commented on [#144](https://github.com/COPS-IITBHU/cops-website/pull/144#issuecomment-1676641844) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+2. 🎉 Merged PR [#144](https://github.com/COPS-IITBHU/cops-website/pull/144) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+3. 🚀 Published release [v1.0](https://github.com/EshaanAgg/GophMail/releases/tag/1.0) in [EshaanAgg/GophMail](https://github.com/EshaanAgg/GophMail)
+4. 🚀 Published release [Initial Stable Release](https://github.com/EshaanAgg/GophMail/releases/tag/1.0) in [EshaanAgg/GophMail](https://github.com/EshaanAgg/GophMail)
+5. 🗣 Commented on [#1346](https://github.com/PalisadoesFoundation/talawa-api/issues/1346#issuecomment-1633004485) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
