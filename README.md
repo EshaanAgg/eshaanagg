@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#151](https://github.com/COPS-IITBHU/cops-website/pull/151#issuecomment-1684883130) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-2. 🗣 Commented on [#144](https://github.com/COPS-IITBHU/cops-website/pull/144#issuecomment-1676641844) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-3. 🎉 Merged PR [#144](https://github.com/COPS-IITBHU/cops-website/pull/144) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-4. 🚀 Published release [v1.0](https://github.com/EshaanAgg/GophMail/releases/tag/1.0) in [EshaanAgg/GophMail](https://github.com/EshaanAgg/GophMail)
-5. 🚀 Published release [Initial Stable Release](https://github.com/EshaanAgg/GophMail/releases/tag/1.0) in [EshaanAgg/GophMail](https://github.com/EshaanAgg/GophMail)
+1. 🎉 Merged PR [#151](https://github.com/COPS-IITBHU/cops-website/pull/151) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+2. 🗣 Commented on [#151](https://github.com/COPS-IITBHU/cops-website/pull/151#issuecomment-1684891125) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+3. 🗣 Commented on [#151](https://github.com/COPS-IITBHU/cops-website/pull/151#issuecomment-1684883130) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+4. 🗣 Commented on [#144](https://github.com/COPS-IITBHU/cops-website/pull/144#issuecomment-1676641844) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+5. 🎉 Merged PR [#144](https://github.com/COPS-IITBHU/cops-website/pull/144) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
 <!--END_SECTION:activity-->
