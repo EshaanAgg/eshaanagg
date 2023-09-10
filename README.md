@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#961](https://github.com/PalisadoesFoundation/talawa-admin/pull/961#issuecomment-1685203614) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-2. 💪 Opened PR [#961](https://github.com/PalisadoesFoundation/talawa-admin/pull/961) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-3. 🎉 Merged PR [#151](https://github.com/COPS-IITBHU/cops-website/pull/151) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-4. 🗣 Commented on [#151](https://github.com/COPS-IITBHU/cops-website/pull/151#issuecomment-1684891125) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
-5. 🗣 Commented on [#151](https://github.com/COPS-IITBHU/cops-website/pull/151#issuecomment-1684883130) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+1. 💪 Opened PR [#1387](https://github.com/PalisadoesFoundation/talawa-api/pull/1387) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🗣 Commented on [#961](https://github.com/PalisadoesFoundation/talawa-admin/pull/961#issuecomment-1685203614) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+3. 💪 Opened PR [#961](https://github.com/PalisadoesFoundation/talawa-admin/pull/961) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+4. 🎉 Merged PR [#151](https://github.com/COPS-IITBHU/cops-website/pull/151) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
+5. 🗣 Commented on [#151](https://github.com/COPS-IITBHU/cops-website/pull/151#issuecomment-1684891125) in [COPS-IITBHU/cops-website](https://github.com/COPS-IITBHU/cops-website)
 <!--END_SECTION:activity-->
