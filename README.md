@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1387](https://github.com/PalisadoesFoundation/talawa-api/pull/1387#issuecomment-1720420129) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. ❗ Opened issue [#109](https://github.com/fossasia/open-event-checkin/issues/109) in [fossasia/open-event-checkin](https://github.com/fossasia/open-event-checkin)
-3. 🗣 Commented on [#9080](https://github.com/fossasia/open-event-server/issues/9080#issuecomment-1713734336) in [fossasia/open-event-server](https://github.com/fossasia/open-event-server)
-4. ❗ Opened issue [#9080](https://github.com/fossasia/open-event-server/issues/9080) in [fossasia/open-event-server](https://github.com/fossasia/open-event-server)
-5. 💪 Opened PR [#1387](https://github.com/PalisadoesFoundation/talawa-api/pull/1387) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 💪 Opened PR [#1389](https://github.com/PalisadoesFoundation/talawa-api/pull/1389) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🗣 Commented on [#1387](https://github.com/PalisadoesFoundation/talawa-api/pull/1387#issuecomment-1720420129) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+3. ❗ Opened issue [#109](https://github.com/fossasia/open-event-checkin/issues/109) in [fossasia/open-event-checkin](https://github.com/fossasia/open-event-checkin)
+4. 🗣 Commented on [#9080](https://github.com/fossasia/open-event-server/issues/9080#issuecomment-1713734336) in [fossasia/open-event-server](https://github.com/fossasia/open-event-server)
+5. ❗ Opened issue [#9080](https://github.com/fossasia/open-event-server/issues/9080) in [fossasia/open-event-server](https://github.com/fossasia/open-event-server)
 <!--END_SECTION:activity-->
