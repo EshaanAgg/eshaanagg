@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#980](https://github.com/PalisadoesFoundation/talawa-admin/pull/980#issuecomment-1746543423) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-2. 🗣 Commented on [#980](https://github.com/PalisadoesFoundation/talawa-admin/pull/980#issuecomment-1746437891) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-3. 💪 Opened PR [#980](https://github.com/PalisadoesFoundation/talawa-admin/pull/980) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-4. 🗣 Commented on [#13](https://github.com/EshaanAgg/LFXMM-Backend/pull/13#issuecomment-1745169637) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
-5. 💪 Opened PR [#1397](https://github.com/PalisadoesFoundation/talawa-api/pull/1397) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 💪 Opened PR [#981](https://github.com/PalisadoesFoundation/talawa-admin/pull/981) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+2. 🗣 Commented on [#980](https://github.com/PalisadoesFoundation/talawa-admin/pull/980#issuecomment-1746543423) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+3. 🗣 Commented on [#980](https://github.com/PalisadoesFoundation/talawa-admin/pull/980#issuecomment-1746437891) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+4. 💪 Opened PR [#980](https://github.com/PalisadoesFoundation/talawa-admin/pull/980) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+5. 🗣 Commented on [#13](https://github.com/EshaanAgg/LFXMM-Backend/pull/13#issuecomment-1745169637) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
 <!--END_SECTION:activity-->
