@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#63](https://github.com/novuhq/go-novu/pull/63) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
-2. 🗣 Commented on [#44](https://github.com/novuhq/go-novu/issues/44#issuecomment-1751920454) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
-3. 🗣 Commented on [#15](https://github.com/novuhq/novu-rust/issues/15#issuecomment-1751920104) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-4. 🗣 Commented on [#11](https://github.com/EshaanAgg/LFXMM-Frontend/pull/11#issuecomment-1751765434) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-5. 🗣 Commented on [#12](https://github.com/EshaanAgg/LFXMM-Frontend/pull/12#issuecomment-1749495797) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+1. 💪 Opened PR [#27](https://github.com/novuhq/novu-rust/pull/27) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+2. 💪 Opened PR [#63](https://github.com/novuhq/go-novu/pull/63) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+3. 🗣 Commented on [#44](https://github.com/novuhq/go-novu/issues/44#issuecomment-1751920454) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+4. 🗣 Commented on [#15](https://github.com/novuhq/novu-rust/issues/15#issuecomment-1751920104) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+5. 🗣 Commented on [#11](https://github.com/EshaanAgg/LFXMM-Frontend/pull/11#issuecomment-1751765434) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
 <!--END_SECTION:activity-->
