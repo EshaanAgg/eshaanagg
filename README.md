@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#194](https://github.com/novuhq/docs/issues/194#issuecomment-1755392994) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 🗣 Commented on [#27](https://github.com/novuhq/novu-rust/pull/27#issuecomment-1754782232) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-3. 🗣 Commented on [#27](https://github.com/novuhq/novu-rust/pull/27#issuecomment-1753337652) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-4. 🗣 Commented on [#195](https://github.com/novuhq/docs/issues/195#issuecomment-1753322979) in [novuhq/docs](https://github.com/novuhq/docs)
-5. ❗ Opened issue [#195](https://github.com/novuhq/docs/issues/195) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 🎉 Merged PR [#14](https://github.com/EshaanAgg/LFXMM-Frontend/pull/14) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+2. 🗣 Commented on [#194](https://github.com/novuhq/docs/issues/194#issuecomment-1755392994) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 🗣 Commented on [#27](https://github.com/novuhq/novu-rust/pull/27#issuecomment-1754782232) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+4. 🗣 Commented on [#27](https://github.com/novuhq/novu-rust/pull/27#issuecomment-1753337652) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+5. 🗣 Commented on [#195](https://github.com/novuhq/docs/issues/195#issuecomment-1753322979) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
