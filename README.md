@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3332](https://github.com/fedimint/fedimint/issues/3332#issuecomment-1758003850) in [fedimint/fedimint](https://github.com/fedimint/fedimint)
-2. 💪 Opened PR [#987](https://github.com/PalisadoesFoundation/talawa-admin/pull/987) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-3. 💪 Opened PR [#1404](https://github.com/PalisadoesFoundation/talawa-api/pull/1404) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🗣 Commented on [#27](https://github.com/novuhq/novu-rust/pull/27#issuecomment-1757946396) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-5. 🎉 Merged PR [#14](https://github.com/EshaanAgg/LFXMM-Frontend/pull/14) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+1. 💪 Opened PR [#3360](https://github.com/fedimint/fedimint/pull/3360) in [fedimint/fedimint](https://github.com/fedimint/fedimint)
+2. 🗣 Commented on [#3332](https://github.com/fedimint/fedimint/issues/3332#issuecomment-1758003850) in [fedimint/fedimint](https://github.com/fedimint/fedimint)
+3. 💪 Opened PR [#987](https://github.com/PalisadoesFoundation/talawa-admin/pull/987) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+4. 💪 Opened PR [#1404](https://github.com/PalisadoesFoundation/talawa-api/pull/1404) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. 🗣 Commented on [#27](https://github.com/novuhq/novu-rust/pull/27#issuecomment-1757946396) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
 <!--END_SECTION:activity-->
