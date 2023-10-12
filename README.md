@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3316](https://github.com/fedimint/fedimint/issues/3316#issuecomment-1758966734) in [fedimint/fedimint](https://github.com/fedimint/fedimint)
-2. 🗣 Commented on [#3360](https://github.com/fedimint/fedimint/pull/3360#issuecomment-1758953258) in [fedimint/fedimint](https://github.com/fedimint/fedimint)
-3. 🗣 Commented on [#19](https://github.com/novuhq/novu-rust/issues/19#issuecomment-1758951169) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-4. 💪 Opened PR [#31](https://github.com/novuhq/novu-rust/pull/31) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
-5. 🎉 Merged PR [#18](https://github.com/EshaanAgg/LFXMM-Backend/pull/18) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
+1. 🗣 Commented on [#210](https://github.com/fedimint/ui/issues/210#issuecomment-1758976154) in [fedimint/ui](https://github.com/fedimint/ui)
+2. 🗣 Commented on [#3316](https://github.com/fedimint/fedimint/issues/3316#issuecomment-1758966734) in [fedimint/fedimint](https://github.com/fedimint/fedimint)
+3. 🗣 Commented on [#3360](https://github.com/fedimint/fedimint/pull/3360#issuecomment-1758953258) in [fedimint/fedimint](https://github.com/fedimint/fedimint)
+4. 🗣 Commented on [#19](https://github.com/novuhq/novu-rust/issues/19#issuecomment-1758951169) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+5. 💪 Opened PR [#31](https://github.com/novuhq/novu-rust/pull/31) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
 <!--END_SECTION:activity-->
