@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#987](https://github.com/PalisadoesFoundation/talawa-admin/pull/987#issuecomment-1760724100) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-2. ❗ Opened issue [#990](https://github.com/PalisadoesFoundation/talawa-admin/issues/990) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-3. 🗣 Commented on [#1404](https://github.com/PalisadoesFoundation/talawa-api/pull/1404#issuecomment-1760722976) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. ❗ Opened issue [#1405](https://github.com/PalisadoesFoundation/talawa-api/issues/1405) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. 🗣 Commented on [#17](https://github.com/EshaanAgg/LFXMM-Frontend/pull/17#issuecomment-1760685666) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+1. 💪 Opened PR [#33](https://github.com/novuhq/novu-rust/pull/33) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+2. 🗣 Commented on [#987](https://github.com/PalisadoesFoundation/talawa-admin/pull/987#issuecomment-1760724100) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+3. ❗ Opened issue [#990](https://github.com/PalisadoesFoundation/talawa-admin/issues/990) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+4. 🗣 Commented on [#1404](https://github.com/PalisadoesFoundation/talawa-api/pull/1404#issuecomment-1760722976) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. ❗ Opened issue [#1405](https://github.com/PalisadoesFoundation/talawa-api/issues/1405) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
