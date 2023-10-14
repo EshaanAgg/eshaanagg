@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#22](https://github.com/EshaanAgg/LFXMM-Backend/pull/22#issuecomment-1761983574) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
-2. 🎉 Merged PR [#19](https://github.com/EshaanAgg/LFXMM-Frontend/pull/19) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-3. 🎉 Merged PR [#18](https://github.com/EshaanAgg/LFXMM-Frontend/pull/18) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-4. 🗣 Commented on [#18](https://github.com/EshaanAgg/LFXMM-Frontend/pull/18#issuecomment-1761663718) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-5. 🎉 Merged PR [#17](https://github.com/EshaanAgg/LFXMM-Frontend/pull/17) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+1. 🎉 Merged PR [#21](https://github.com/EshaanAgg/LFXMM-Frontend/pull/21) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+2. 🗣 Commented on [#198](https://github.com/fedimint/ui/issues/198#issuecomment-1762625241) in [fedimint/ui](https://github.com/fedimint/ui)
+3. 🗣 Commented on [#3371](https://github.com/fedimint/fedimint/pull/3371#issuecomment-1762607597) in [fedimint/fedimint](https://github.com/fedimint/fedimint)
+4. 🗣 Commented on [#22](https://github.com/EshaanAgg/LFXMM-Backend/pull/22#issuecomment-1761983574) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
+5. 🎉 Merged PR [#19](https://github.com/EshaanAgg/LFXMM-Frontend/pull/19) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
 <!--END_SECTION:activity-->
