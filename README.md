@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#234](https://github.com/fedimint/ui/pull/234) in [fedimint/ui](https://github.com/fedimint/ui)
-2. 🗣 Commented on [#23](https://github.com/EshaanAgg/LFXMM-Backend/pull/23#issuecomment-1764439708) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
-3. 🎉 Merged PR [#21](https://github.com/EshaanAgg/LFXMM-Frontend/pull/21) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-4. 🗣 Commented on [#198](https://github.com/fedimint/ui/issues/198#issuecomment-1762625241) in [fedimint/ui](https://github.com/fedimint/ui)
-5. 🗣 Commented on [#3371](https://github.com/fedimint/fedimint/pull/3371#issuecomment-1762607597) in [fedimint/fedimint](https://github.com/fedimint/fedimint)
+1. 🗣 Commented on [#235](https://github.com/fedimint/ui/issues/235#issuecomment-1766231486) in [fedimint/ui](https://github.com/fedimint/ui)
+2. ❗ Opened issue [#220](https://github.com/peter-evans/dockerhub-description/issues/220) in [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description)
+3. ❗ Opened issue [#235](https://github.com/fedimint/ui/issues/235) in [fedimint/ui](https://github.com/fedimint/ui)
+4. 💪 Opened PR [#234](https://github.com/fedimint/ui/pull/234) in [fedimint/ui](https://github.com/fedimint/ui)
+5. 🗣 Commented on [#23](https://github.com/EshaanAgg/LFXMM-Backend/pull/23#issuecomment-1764439708) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
 <!--END_SECTION:activity-->
