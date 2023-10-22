@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#6](https://github.com/EshaanAgg/preplane/pull/6) in [EshaanAgg/preplane](https://github.com/EshaanAgg/preplane)
-2. 🎉 Merged PR [#8](https://github.com/EshaanAgg/preplane/pull/8) in [EshaanAgg/preplane](https://github.com/EshaanAgg/preplane)
-3. 🎉 Merged PR [#7](https://github.com/EshaanAgg/preplane/pull/7) in [EshaanAgg/preplane](https://github.com/EshaanAgg/preplane)
-4. 💪 Opened PR [#236](https://github.com/fedimint/ui/pull/236) in [fedimint/ui](https://github.com/fedimint/ui)
-5. 🔒 Closed issue [#220](https://github.com/peter-evans/dockerhub-description/issues/220) in [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description)
+1. 🎉 Merged PR [#9](https://github.com/EshaanAgg/preplane/pull/9) in [EshaanAgg/preplane](https://github.com/EshaanAgg/preplane)
+2. ❌ Closed PR [#6](https://github.com/EshaanAgg/preplane/pull/6) in [EshaanAgg/preplane](https://github.com/EshaanAgg/preplane)
+3. 🎉 Merged PR [#8](https://github.com/EshaanAgg/preplane/pull/8) in [EshaanAgg/preplane](https://github.com/EshaanAgg/preplane)
+4. 🎉 Merged PR [#7](https://github.com/EshaanAgg/preplane/pull/7) in [EshaanAgg/preplane](https://github.com/EshaanAgg/preplane)
+5. 💪 Opened PR [#236](https://github.com/fedimint/ui/pull/236) in [fedimint/ui](https://github.com/fedimint/ui)
 <!--END_SECTION:activity-->
