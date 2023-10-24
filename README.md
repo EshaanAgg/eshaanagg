@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/EshaanAgg/hackon/pull/1) in [EshaanAgg/hackon](https://github.com/EshaanAgg/hackon)
-2. 🎉 Merged PR [#23](https://github.com/EshaanAgg/LFXMM-Frontend/pull/23) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-3. 💪 Opened PR [#240](https://github.com/fedimint/ui/pull/240) in [fedimint/ui](https://github.com/fedimint/ui)
-4. 🎉 Merged PR [#9](https://github.com/EshaanAgg/preplane/pull/9) in [EshaanAgg/preplane](https://github.com/EshaanAgg/preplane)
-5. ❌ Closed PR [#6](https://github.com/EshaanAgg/preplane/pull/6) in [EshaanAgg/preplane](https://github.com/EshaanAgg/preplane)
+1. 🎉 Merged PR [#2](https://github.com/EshaanAgg/hackon/pull/2) in [EshaanAgg/hackon](https://github.com/EshaanAgg/hackon)
+2. 🎉 Merged PR [#1](https://github.com/EshaanAgg/hackon/pull/1) in [EshaanAgg/hackon](https://github.com/EshaanAgg/hackon)
+3. 🎉 Merged PR [#23](https://github.com/EshaanAgg/LFXMM-Frontend/pull/23) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+4. 💪 Opened PR [#240](https://github.com/fedimint/ui/pull/240) in [fedimint/ui](https://github.com/fedimint/ui)
+5. 🎉 Merged PR [#9](https://github.com/EshaanAgg/preplane/pull/9) in [EshaanAgg/preplane](https://github.com/EshaanAgg/preplane)
 <!--END_SECTION:activity-->
