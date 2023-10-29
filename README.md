@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/EshaanAgg/LFXMM-Frontend/pull/11#issuecomment-1783739979) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-2. 🗣 Commented on [#1126](https://github.com/PalisadoesFoundation/talawa-api/issues/1126#issuecomment-1783738451) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🗣 Commented on [#240](https://github.com/fedimint/ui/pull/240#issuecomment-1779969565) in [fedimint/ui](https://github.com/fedimint/ui)
-4. 🗣 Commented on [#240](https://github.com/fedimint/ui/pull/240#issuecomment-1779622281) in [fedimint/ui](https://github.com/fedimint/ui)
-5. 🎉 Merged PR [#24](https://github.com/EshaanAgg/LFXMM-Frontend/pull/24) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+1. 🗣 Commented on [#1403](https://github.com/PalisadoesFoundation/talawa-api/pull/1403#issuecomment-1784003623) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🗣 Commented on [#1011](https://github.com/PalisadoesFoundation/talawa-admin/issues/1011#issuecomment-1784003475) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+3. 🗣 Commented on [#11](https://github.com/EshaanAgg/LFXMM-Frontend/pull/11#issuecomment-1783739979) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+4. 🗣 Commented on [#1126](https://github.com/PalisadoesFoundation/talawa-api/issues/1126#issuecomment-1783738451) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. 🗣 Commented on [#240](https://github.com/fedimint/ui/pull/240#issuecomment-1779969565) in [fedimint/ui](https://github.com/fedimint/ui)
 <!--END_SECTION:activity-->
