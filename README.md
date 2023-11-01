@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/EshaanAgg/LFXMM-Backend/pull/24) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
-2. 🗣 Commented on [#20](https://github.com/EshaanAgg/LFXMM-Frontend/pull/20#issuecomment-1789385739) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-3. 🗣 Commented on [#1012](https://github.com/PalisadoesFoundation/talawa-admin/issues/1012#issuecomment-1786672934) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-4. 🗣 Commented on [#22](https://github.com/EshaanAgg/LFXMM-Frontend/pull/22#issuecomment-1786638148) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-5. 🗣 Commented on [#1403](https://github.com/PalisadoesFoundation/talawa-api/pull/1403#issuecomment-1784003623) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 🎉 Merged PR [#25](https://github.com/EshaanAgg/LFXMM-Frontend/pull/25) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+2. 🎉 Merged PR [#24](https://github.com/EshaanAgg/LFXMM-Backend/pull/24) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
+3. 🗣 Commented on [#20](https://github.com/EshaanAgg/LFXMM-Frontend/pull/20#issuecomment-1789385739) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+4. 🗣 Commented on [#1012](https://github.com/PalisadoesFoundation/talawa-admin/issues/1012#issuecomment-1786672934) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+5. 🗣 Commented on [#22](https://github.com/EshaanAgg/LFXMM-Frontend/pull/22#issuecomment-1786638148) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
 <!--END_SECTION:activity-->
