@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#25](https://github.com/EshaanAgg/LFXMM-Backend/pull/25#issuecomment-1794085177) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
-2. ❌ Closed PR [#25](https://github.com/EshaanAgg/LFXMM-Backend/pull/25) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
-3. 🎉 Merged PR [#26](https://github.com/EshaanAgg/LFXMM-Frontend/pull/26) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-4. 🗣 Commented on [#26](https://github.com/EshaanAgg/LFXMM-Frontend/pull/26#issuecomment-1791998984) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-5. 🎉 Merged PR [#25](https://github.com/EshaanAgg/LFXMM-Frontend/pull/25) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+1. 🗣 Commented on [#28](https://github.com/EshaanAgg/LFXMM-Frontend/pull/28#issuecomment-1794823064) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+2. 🗣 Commented on [#25](https://github.com/EshaanAgg/LFXMM-Backend/pull/25#issuecomment-1794085177) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
+3. ❌ Closed PR [#25](https://github.com/EshaanAgg/LFXMM-Backend/pull/25) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
+4. 🎉 Merged PR [#26](https://github.com/EshaanAgg/LFXMM-Frontend/pull/26) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+5. 🗣 Commented on [#26](https://github.com/EshaanAgg/LFXMM-Frontend/pull/26#issuecomment-1791998984) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
 <!--END_SECTION:activity-->
