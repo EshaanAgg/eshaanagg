@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4911](https://github.com/jaegertracing/jaeger/issues/4911#issuecomment-1804086129) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
-2. 🗣 Commented on [#1046](https://github.com/PalisadoesFoundation/talawa-admin/pull/1046#issuecomment-1804054404) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-3. 🗣 Commented on [#28](https://github.com/EshaanAgg/LFXMM-Frontend/pull/28#issuecomment-1794823064) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-4. 🗣 Commented on [#25](https://github.com/EshaanAgg/LFXMM-Backend/pull/25#issuecomment-1794085177) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
-5. ❌ Closed PR [#25](https://github.com/EshaanAgg/LFXMM-Backend/pull/25) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
+1. 💪 Opened PR [#1959](https://github.com/jaegertracing/jaeger-ui/pull/1959) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+2. 🗣 Commented on [#4911](https://github.com/jaegertracing/jaeger/issues/4911#issuecomment-1804086129) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
+3. 🗣 Commented on [#1046](https://github.com/PalisadoesFoundation/talawa-admin/pull/1046#issuecomment-1804054404) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+4. 🗣 Commented on [#28](https://github.com/EshaanAgg/LFXMM-Frontend/pull/28#issuecomment-1794823064) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+5. 🗣 Commented on [#25](https://github.com/EshaanAgg/LFXMM-Backend/pull/25#issuecomment-1794085177) in [EshaanAgg/LFXMM-Backend](https://github.com/EshaanAgg/LFXMM-Backend)
 <!--END_SECTION:activity-->
