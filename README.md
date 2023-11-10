@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1962](https://github.com/jaegertracing/jaeger-ui/pull/1962#issuecomment-1805127677) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-2. 💪 Opened PR [#1962](https://github.com/jaegertracing/jaeger-ui/pull/1962) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-3. 🗣 Commented on [#1668](https://github.com/jaegertracing/jaeger-ui/issues/1668#issuecomment-1805057686) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-4. 🗣 Commented on [#1668](https://github.com/jaegertracing/jaeger-ui/issues/1668#issuecomment-1805051709) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-5. 💪 Opened PR [#1961](https://github.com/jaegertracing/jaeger-ui/pull/1961) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+1. 🗣 Commented on [#1962](https://github.com/jaegertracing/jaeger-ui/pull/1962#issuecomment-1806135079) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+2. 🗣 Commented on [#1962](https://github.com/jaegertracing/jaeger-ui/pull/1962#issuecomment-1805127677) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+3. 💪 Opened PR [#1962](https://github.com/jaegertracing/jaeger-ui/pull/1962) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+4. 🗣 Commented on [#1668](https://github.com/jaegertracing/jaeger-ui/issues/1668#issuecomment-1805057686) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+5. 🗣 Commented on [#1668](https://github.com/jaegertracing/jaeger-ui/issues/1668#issuecomment-1805051709) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 <!--END_SECTION:activity-->
