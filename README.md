@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#28](https://github.com/EshaanAgg/LFXMM-Frontend/pull/28) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-2. 🗣 Commented on [#1959](https://github.com/jaegertracing/jaeger-ui/pull/1959#issuecomment-1804979100) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-3. 💪 Opened PR [#1960](https://github.com/jaegertracing/jaeger-ui/pull/1960) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-4. 💪 Opened PR [#1959](https://github.com/jaegertracing/jaeger-ui/pull/1959) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-5. 🗣 Commented on [#4911](https://github.com/jaegertracing/jaeger/issues/4911#issuecomment-1804086129) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
+1. 🗣 Commented on [#1668](https://github.com/jaegertracing/jaeger-ui/issues/1668#issuecomment-1805051709) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+2. 💪 Opened PR [#1961](https://github.com/jaegertracing/jaeger-ui/pull/1961) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+3. 🎉 Merged PR [#28](https://github.com/EshaanAgg/LFXMM-Frontend/pull/28) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
+4. 🗣 Commented on [#1959](https://github.com/jaegertracing/jaeger-ui/pull/1959#issuecomment-1804979100) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+5. 💪 Opened PR [#1960](https://github.com/jaegertracing/jaeger-ui/pull/1960) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 <!--END_SECTION:activity-->
