@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973#issuecomment-1809592903) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-2. 🗣 Commented on [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973#issuecomment-1809391848) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-3. 💪 Opened PR [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-4. 🗣 Commented on [#1053](https://github.com/PalisadoesFoundation/talawa-admin/pull/1053#issuecomment-1806848634) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-5. 🗣 Commented on [#354](https://github.com/PalisadoesFoundation/talawa-api/issues/354#issuecomment-1806846593) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 🗣 Commented on [#1075](https://github.com/PalisadoesFoundation/talawa-admin/issues/1075#issuecomment-1833575343) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+2. 🗣 Commented on [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973#issuecomment-1809592903) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+3. 🗣 Commented on [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973#issuecomment-1809391848) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+4. 💪 Opened PR [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+5. 🗣 Commented on [#1053](https://github.com/PalisadoesFoundation/talawa-admin/pull/1053#issuecomment-1806848634) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
 <!--END_SECTION:activity-->
