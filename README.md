@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1075](https://github.com/PalisadoesFoundation/talawa-admin/issues/1075#issuecomment-1833575343) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-2. 🗣 Commented on [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973#issuecomment-1809592903) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-3. 🗣 Commented on [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973#issuecomment-1809391848) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-4. 💪 Opened PR [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-5. 🗣 Commented on [#1053](https://github.com/PalisadoesFoundation/talawa-admin/pull/1053#issuecomment-1806848634) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+1. 🗣 Commented on [#372](https://github.com/learningequality/kolibri-design-system/issues/372#issuecomment-1837524230) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+2. 🗣 Commented on [#1075](https://github.com/PalisadoesFoundation/talawa-admin/issues/1075#issuecomment-1833575343) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+3. 🗣 Commented on [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973#issuecomment-1809592903) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+4. 🗣 Commented on [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973#issuecomment-1809391848) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+5. 💪 Opened PR [#1973](https://github.com/jaegertracing/jaeger-ui/pull/1973) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 <!--END_SECTION:activity-->
