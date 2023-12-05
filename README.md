@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1077](https://github.com/PalisadoesFoundation/talawa-admin/pull/1077#issuecomment-1839432736) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-2. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1838550562) in [plone/volto](https://github.com/plone/volto)
-3. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1838464677) in [plone/volto](https://github.com/plone/volto)
-4. 🗣 Commented on [#4330](https://github.com/CircuitVerse/CircuitVerse/issues/4330#issuecomment-1838429595) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-5. 🗣 Commented on [#372](https://github.com/learningequality/kolibri-design-system/issues/372#issuecomment-1837524230) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+1. ❗ Opened issue [#1450](https://github.com/PalisadoesFoundation/talawa-api/issues/1450) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🗣 Commented on [#1077](https://github.com/PalisadoesFoundation/talawa-admin/pull/1077#issuecomment-1839432736) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+3. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1838550562) in [plone/volto](https://github.com/plone/volto)
+4. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1838464677) in [plone/volto](https://github.com/plone/volto)
+5. 🗣 Commented on [#4330](https://github.com/CircuitVerse/CircuitVerse/issues/4330#issuecomment-1838429595) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
 <!--END_SECTION:activity-->
