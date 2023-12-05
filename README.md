@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#3335](https://github.com/mathesar-foundation/mathesar/issues/3335) in [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)
-2. ❗ Opened issue [#1450](https://github.com/PalisadoesFoundation/talawa-api/issues/1450) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🗣 Commented on [#1077](https://github.com/PalisadoesFoundation/talawa-admin/pull/1077#issuecomment-1839432736) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-4. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1838550562) in [plone/volto](https://github.com/plone/volto)
-5. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1838464677) in [plone/volto](https://github.com/plone/volto)
+1. 🗣 Commented on [#1450](https://github.com/PalisadoesFoundation/talawa-api/issues/1450#issuecomment-1841098598) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. ❗ Opened issue [#3335](https://github.com/mathesar-foundation/mathesar/issues/3335) in [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)
+3. ❗ Opened issue [#1450](https://github.com/PalisadoesFoundation/talawa-api/issues/1450) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. 🗣 Commented on [#1077](https://github.com/PalisadoesFoundation/talawa-admin/pull/1077#issuecomment-1839432736) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+5. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1838550562) in [plone/volto](https://github.com/plone/volto)
 <!--END_SECTION:activity-->
