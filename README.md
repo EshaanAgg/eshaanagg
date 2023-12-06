@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1842205977) in [plone/volto](https://github.com/plone/volto)
-2. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1841543344) in [plone/volto](https://github.com/plone/volto)
-3. 💪 Opened PR [#5496](https://github.com/plone/volto/pull/5496) in [plone/volto](https://github.com/plone/volto)
-4. 🗣 Commented on [#1454](https://github.com/PalisadoesFoundation/talawa-api/pull/1454#issuecomment-1841398568) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. 🗣 Commented on [#1453](https://github.com/PalisadoesFoundation/talawa-api/issues/1453#issuecomment-1841367378) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 🗣 Commented on [#5496](https://github.com/plone/volto/pull/5496#issuecomment-1842236000) in [plone/volto](https://github.com/plone/volto)
+2. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1842233755) in [plone/volto](https://github.com/plone/volto)
+3. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1842205977) in [plone/volto](https://github.com/plone/volto)
+4. 🗣 Commented on [#5464](https://github.com/plone/volto/issues/5464#issuecomment-1841543344) in [plone/volto](https://github.com/plone/volto)
+5. 💪 Opened PR [#5496](https://github.com/plone/volto/pull/5496) in [plone/volto](https://github.com/plone/volto)
 <!--END_SECTION:activity-->
