@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1452](https://github.com/PalisadoesFoundation/talawa-api/issues/1452#issuecomment-1845459811) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 🗣 Commented on [#1467](https://github.com/PalisadoesFoundation/talawa-api/pull/1467#issuecomment-1845458322) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 💪 Opened PR [#502](https://github.com/learningequality/kolibri-design-system/pull/502) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-4. 🗣 Commented on [#1467](https://github.com/PalisadoesFoundation/talawa-api/pull/1467#issuecomment-1845287041) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. 🗣 Commented on [#3335](https://github.com/mathesar-foundation/mathesar/issues/3335#issuecomment-1843050198) in [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar)
+1. ❗ Opened issue [#697](https://github.com/PalisadoesFoundation/talawa-docs/issues/697) in [PalisadoesFoundation/talawa-docs](https://github.com/PalisadoesFoundation/talawa-docs)
+2. ❗ Opened issue [#1160](https://github.com/PalisadoesFoundation/talawa-admin/issues/1160) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+3. ❗ Opened issue [#1471](https://github.com/PalisadoesFoundation/talawa-api/issues/1471) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. 🗣 Commented on [#696](https://github.com/PalisadoesFoundation/talawa-docs/pull/696#issuecomment-1845627193) in [PalisadoesFoundation/talawa-docs](https://github.com/PalisadoesFoundation/talawa-docs)
+5. 🗣 Commented on [#1452](https://github.com/PalisadoesFoundation/talawa-api/issues/1452#issuecomment-1845459811) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
