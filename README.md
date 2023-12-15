@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1490](https://github.com/PalisadoesFoundation/talawa-api/pull/1490#issuecomment-1855133534) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 🗣 Commented on [#1179](https://github.com/PalisadoesFoundation/talawa-admin/pull/1179#issuecomment-1854606170) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-3. 🗣 Commented on [#1179](https://github.com/PalisadoesFoundation/talawa-admin/pull/1179#issuecomment-1851630037) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-4. 🎉 Merged PR [#29](https://github.com/EshaanAgg/LFXMM-Frontend/pull/29) in [EshaanAgg/LFXMM-Frontend](https://github.com/EshaanAgg/LFXMM-Frontend)
-5. 🗣 Commented on [#1075](https://github.com/PalisadoesFoundation/talawa-admin/issues/1075#issuecomment-1848374715) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+1. 🗣 Commented on [#1031](https://github.com/PalisadoesFoundation/talawa-admin/issues/1031#issuecomment-1858350992) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+2. 🗣 Commented on [#502](https://github.com/learningequality/kolibri-design-system/pull/502#issuecomment-1858300100) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+3. 🗣 Commented on [#1490](https://github.com/PalisadoesFoundation/talawa-api/pull/1490#issuecomment-1855133534) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. 🗣 Commented on [#1179](https://github.com/PalisadoesFoundation/talawa-admin/pull/1179#issuecomment-1854606170) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+5. 🗣 Commented on [#1179](https://github.com/PalisadoesFoundation/talawa-admin/pull/1179#issuecomment-1851630037) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
 <!--END_SECTION:activity-->
