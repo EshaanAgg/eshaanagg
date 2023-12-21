@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#509](https://github.com/learningequality/kolibri-design-system/pull/509) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-2. 🗣 Commented on [#371](https://github.com/learningequality/kolibri-design-system/issues/371#issuecomment-1864396602) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-3. 🗣 Commented on [#1510](https://github.com/PalisadoesFoundation/talawa-api/issues/1510#issuecomment-1861245859) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🗣 Commented on [#1390](https://github.com/PalisadoesFoundation/talawa-api/pull/1390#issuecomment-1859271468) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. 🗣 Commented on [#1031](https://github.com/PalisadoesFoundation/talawa-admin/issues/1031#issuecomment-1858350992) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+1. 🗣 Commented on [#1450](https://github.com/PalisadoesFoundation/talawa-api/issues/1450#issuecomment-1866185099) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🔒 Closed issue [#1450](https://github.com/PalisadoesFoundation/talawa-api/issues/1450) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+3. 🗣 Commented on [#1494](https://github.com/PalisadoesFoundation/talawa-api/pull/1494#issuecomment-1866174367) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. ❗ Opened issue [#510](https://github.com/learningequality/kolibri-design-system/issues/510) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+5. 💪 Opened PR [#509](https://github.com/learningequality/kolibri-design-system/pull/509) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
 <!--END_SECTION:activity-->
