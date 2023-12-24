@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2064](https://github.com/jaegertracing/jaeger-ui/pull/2064) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-2. 🗣 Commented on [#512](https://github.com/learningequality/kolibri-design-system/issues/512#issuecomment-1868488415) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-3. ❗ Opened issue [#512](https://github.com/learningequality/kolibri-design-system/issues/512) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-4. 🗣 Commented on [#1450](https://github.com/PalisadoesFoundation/talawa-api/issues/1450#issuecomment-1866185099) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. 🔒 Closed issue [#1450](https://github.com/PalisadoesFoundation/talawa-api/issues/1450) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 💪 Opened PR [#2065](https://github.com/jaegertracing/jaeger-ui/pull/2065) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+2. 💪 Opened PR [#2064](https://github.com/jaegertracing/jaeger-ui/pull/2064) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+3. 🗣 Commented on [#512](https://github.com/learningequality/kolibri-design-system/issues/512#issuecomment-1868488415) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+4. ❗ Opened issue [#512](https://github.com/learningequality/kolibri-design-system/issues/512) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+5. 🗣 Commented on [#1450](https://github.com/PalisadoesFoundation/talawa-api/issues/1450#issuecomment-1866185099) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
