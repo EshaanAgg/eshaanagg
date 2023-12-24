@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2067](https://github.com/jaegertracing/jaeger-ui/issues/2067) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-2. 💪 Opened PR [#2066](https://github.com/jaegertracing/jaeger-ui/pull/2066) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-3. 💪 Opened PR [#2065](https://github.com/jaegertracing/jaeger-ui/pull/2065) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-4. 💪 Opened PR [#2064](https://github.com/jaegertracing/jaeger-ui/pull/2064) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-5. 🗣 Commented on [#512](https://github.com/learningequality/kolibri-design-system/issues/512#issuecomment-1868488415) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+1. 🗣 Commented on [#2068](https://github.com/jaegertracing/jaeger-ui/pull/2068#issuecomment-1868563218) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+2. 💪 Opened PR [#5033](https://github.com/jaegertracing/jaeger/pull/5033) in [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
+3. 💪 Opened PR [#2068](https://github.com/jaegertracing/jaeger-ui/pull/2068) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+4. ❗ Opened issue [#2067](https://github.com/jaegertracing/jaeger-ui/issues/2067) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+5. 💪 Opened PR [#2066](https://github.com/jaegertracing/jaeger-ui/pull/2066) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 <!--END_SECTION:activity-->
