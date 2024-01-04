@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Harsh1s/Space-Odyssey/pull/1) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
-2. 💪 Opened PR [#1](https://github.com/Harsh1s/Space-Odyssey/pull/1) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
-3. 🗣 Commented on [#2080](https://github.com/jaegertracing/jaeger-ui/pull/2080#issuecomment-1874347541) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-4. 🗣 Commented on [#2080](https://github.com/jaegertracing/jaeger-ui/pull/2080#issuecomment-1874325179) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-5. 💪 Opened PR [#2080](https://github.com/jaegertracing/jaeger-ui/pull/2080) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+1. 🎉 Merged PR [#3](https://github.com/Harsh1s/Space-Odyssey/pull/3) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
+2. 💪 Opened PR [#3](https://github.com/Harsh1s/Space-Odyssey/pull/3) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
+3. 🎉 Merged PR [#2](https://github.com/Harsh1s/Space-Odyssey/pull/2) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
+4. 💪 Opened PR [#2](https://github.com/Harsh1s/Space-Odyssey/pull/2) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
+5. 🎉 Merged PR [#1](https://github.com/Harsh1s/Space-Odyssey/pull/1) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
 <!--END_SECTION:activity-->
