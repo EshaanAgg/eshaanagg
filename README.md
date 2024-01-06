@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/Harsh1s/Space-Odyssey/pull/3) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
-2. 💪 Opened PR [#3](https://github.com/Harsh1s/Space-Odyssey/pull/3) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
-3. 🎉 Merged PR [#2](https://github.com/Harsh1s/Space-Odyssey/pull/2) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
-4. 💪 Opened PR [#2](https://github.com/Harsh1s/Space-Odyssey/pull/2) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
-5. 🎉 Merged PR [#1](https://github.com/Harsh1s/Space-Odyssey/pull/1) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
+1. 🗣 Commented on [#1353](https://github.com/PalisadoesFoundation/talawa-admin/pull/1353#issuecomment-1879782350) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+2. 🎉 Merged PR [#3](https://github.com/Harsh1s/Space-Odyssey/pull/3) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
+3. 💪 Opened PR [#3](https://github.com/Harsh1s/Space-Odyssey/pull/3) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
+4. 🎉 Merged PR [#2](https://github.com/Harsh1s/Space-Odyssey/pull/2) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
+5. 💪 Opened PR [#2](https://github.com/Harsh1s/Space-Odyssey/pull/2) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
 <!--END_SECTION:activity-->
