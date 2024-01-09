@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1635](https://github.com/PalisadoesFoundation/talawa-api/pull/1635#issuecomment-1879984599) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 🎉 Merged PR [#4](https://github.com/Harsh1s/Space-Odyssey/pull/4) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
-3. 💪 Opened PR [#4](https://github.com/Harsh1s/Space-Odyssey/pull/4) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
-4. 🎉 Merged PR [#1](https://github.com/EshaanAgg/Space-Odyssey/pull/1) in [EshaanAgg/Space-Odyssey](https://github.com/EshaanAgg/Space-Odyssey)
-5. 💪 Opened PR [#1](https://github.com/EshaanAgg/Space-Odyssey/pull/1) in [EshaanAgg/Space-Odyssey](https://github.com/EshaanAgg/Space-Odyssey)
+1. 🗣 Commented on [#1397](https://github.com/PalisadoesFoundation/talawa-admin/pull/1397#issuecomment-1882425236) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+2. 🗣 Commented on [#1397](https://github.com/PalisadoesFoundation/talawa-admin/pull/1397#issuecomment-1882422463) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+3. 🗣 Commented on [#1635](https://github.com/PalisadoesFoundation/talawa-api/pull/1635#issuecomment-1879984599) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. 🎉 Merged PR [#4](https://github.com/Harsh1s/Space-Odyssey/pull/4) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
+5. 💪 Opened PR [#4](https://github.com/Harsh1s/Space-Odyssey/pull/4) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
 <!--END_SECTION:activity-->
