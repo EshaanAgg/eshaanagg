@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1397](https://github.com/PalisadoesFoundation/talawa-admin/pull/1397#issuecomment-1882425236) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-2. 🗣 Commented on [#1397](https://github.com/PalisadoesFoundation/talawa-admin/pull/1397#issuecomment-1882422463) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
-3. 🗣 Commented on [#1635](https://github.com/PalisadoesFoundation/talawa-api/pull/1635#issuecomment-1879984599) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🎉 Merged PR [#4](https://github.com/Harsh1s/Space-Odyssey/pull/4) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
-5. 💪 Opened PR [#4](https://github.com/Harsh1s/Space-Odyssey/pull/4) in [Harsh1s/Space-Odyssey](https://github.com/Harsh1s/Space-Odyssey)
+1. 🗣 Commented on [#512](https://github.com/learningequality/kolibri-design-system/issues/512#issuecomment-1884986540) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+2. 💪 Opened PR [#518](https://github.com/learningequality/kolibri-design-system/pull/518) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+3. 🗣 Commented on [#1397](https://github.com/PalisadoesFoundation/talawa-admin/pull/1397#issuecomment-1882425236) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+4. 🗣 Commented on [#1397](https://github.com/PalisadoesFoundation/talawa-admin/pull/1397#issuecomment-1882422463) in [PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+5. 🗣 Commented on [#1635](https://github.com/PalisadoesFoundation/talawa-api/pull/1635#issuecomment-1879984599) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
