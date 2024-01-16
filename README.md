@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#14958](https://github.com/vitessio/vitess/pull/14958) in [vitessio/vitess](https://github.com/vitessio/vitess)
-2. 🗣 Commented on [#1603](https://github.com/PalisadoesFoundation/talawa-api/pull/1603#issuecomment-1891036205) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🗣 Commented on [#4328](https://github.com/learningequality/studio/issues/4328#issuecomment-1890443385) in [learningequality/studio](https://github.com/learningequality/studio)
-4. 🗣 Commented on [#512](https://github.com/learningequality/kolibri-design-system/issues/512#issuecomment-1884986540) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-5. 💪 Opened PR [#518](https://github.com/learningequality/kolibri-design-system/pull/518) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+1. 💪 Opened PR [#14960](https://github.com/vitessio/vitess/pull/14960) in [vitessio/vitess](https://github.com/vitessio/vitess)
+2. 🗣 Commented on [#14931](https://github.com/vitessio/vitess/issues/14931#issuecomment-1893161796) in [vitessio/vitess](https://github.com/vitessio/vitess)
+3. 💪 Opened PR [#14958](https://github.com/vitessio/vitess/pull/14958) in [vitessio/vitess](https://github.com/vitessio/vitess)
+4. 🗣 Commented on [#1603](https://github.com/PalisadoesFoundation/talawa-api/pull/1603#issuecomment-1891036205) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. 🗣 Commented on [#4328](https://github.com/learningequality/studio/issues/4328#issuecomment-1890443385) in [learningequality/studio](https://github.com/learningequality/studio)
 <!--END_SECTION:activity-->
