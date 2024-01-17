@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1603](https://github.com/PalisadoesFoundation/talawa-api/pull/1603#issuecomment-1896346827) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 💪 Opened PR [#14970](https://github.com/vitessio/vitess/pull/14970) in [vitessio/vitess](https://github.com/vitessio/vitess)
-3. 🗣 Commented on [#14960](https://github.com/vitessio/vitess/pull/14960#issuecomment-1894121083) in [vitessio/vitess](https://github.com/vitessio/vitess)
-4. 🗣 Commented on [#14960](https://github.com/vitessio/vitess/pull/14960#issuecomment-1893770603) in [vitessio/vitess](https://github.com/vitessio/vitess)
-5. 💪 Opened PR [#14960](https://github.com/vitessio/vitess/pull/14960) in [vitessio/vitess](https://github.com/vitessio/vitess)
+1. 🗣 Commented on [#1695](https://github.com/PalisadoesFoundation/talawa-api/issues/1695#issuecomment-1896648666) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🗣 Commented on [#1603](https://github.com/PalisadoesFoundation/talawa-api/pull/1603#issuecomment-1896346827) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+3. 💪 Opened PR [#14970](https://github.com/vitessio/vitess/pull/14970) in [vitessio/vitess](https://github.com/vitessio/vitess)
+4. 🗣 Commented on [#14960](https://github.com/vitessio/vitess/pull/14960#issuecomment-1894121083) in [vitessio/vitess](https://github.com/vitessio/vitess)
+5. 🗣 Commented on [#14960](https://github.com/vitessio/vitess/pull/14960#issuecomment-1893770603) in [vitessio/vitess](https://github.com/vitessio/vitess)
 <!--END_SECTION:activity-->
