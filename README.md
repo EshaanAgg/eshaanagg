@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1903988923) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 🗣 Commented on [#1712](https://github.com/PalisadoesFoundation/talawa-api/pull/1712#issuecomment-1903975688) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🗣 Commented on [#1712](https://github.com/PalisadoesFoundation/talawa-api/pull/1712#issuecomment-1903644746) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🗣 Commented on [#1712](https://github.com/PalisadoesFoundation/talawa-api/pull/1712#issuecomment-1902538575) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. 🗣 Commented on [#1712](https://github.com/PalisadoesFoundation/talawa-api/pull/1712#issuecomment-1902538270) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 🗣 Commented on [#1736](https://github.com/PalisadoesFoundation/talawa-api/pull/1736#issuecomment-1904724356) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1903988923) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+3. 🗣 Commented on [#1712](https://github.com/PalisadoesFoundation/talawa-api/pull/1712#issuecomment-1903975688) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. 🗣 Commented on [#1712](https://github.com/PalisadoesFoundation/talawa-api/pull/1712#issuecomment-1903644746) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. 🗣 Commented on [#1712](https://github.com/PalisadoesFoundation/talawa-api/pull/1712#issuecomment-1902538575) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
