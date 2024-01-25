@@ -106,9 +106,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1738](https://github.com/PalisadoesFoundation/talawa-api/pull/1738#issuecomment-1908648249) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 🗣 Commented on [#1738](https://github.com/PalisadoesFoundation/talawa-api/pull/1738#issuecomment-1908647146) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🗣 Commented on [#1738](https://github.com/PalisadoesFoundation/talawa-api/pull/1738#issuecomment-1908550721) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🗣 Commented on [#1738](https://github.com/PalisadoesFoundation/talawa-api/pull/1738#issuecomment-1907429146) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. 🗣 Commented on [#15018](https://github.com/vitessio/vitess/pull/15018#issuecomment-1906752734) in [vitessio/vitess](https://github.com/vitessio/vitess)
+1. ❗ Opened issue [#4410](https://github.com/litmuschaos/litmus/issues/4410) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
+2. 🗣 Commented on [#1738](https://github.com/PalisadoesFoundation/talawa-api/pull/1738#issuecomment-1908648249) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+3. 🗣 Commented on [#1738](https://github.com/PalisadoesFoundation/talawa-api/pull/1738#issuecomment-1908647146) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. 🗣 Commented on [#1738](https://github.com/PalisadoesFoundation/talawa-api/pull/1738#issuecomment-1908550721) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. 🗣 Commented on [#1738](https://github.com/PalisadoesFoundation/talawa-api/pull/1738#issuecomment-1907429146) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
