@@ -16,17 +16,11 @@
 
 - 💻 I am a Computer Science and Engineering undergraduate student at the Indian Institute of Technology BHU (Varanasi) pursuing a Bachelor of Technology in my second year.
 
-- 🐱 I have a keen interest in Open Source and Web Development.
-
-- 🌱 I’m currently learning Next.js and Django.
-
-- ❓ Ask me about anything related to MEVN stack and related technologies.
+- 🐱 I have a keen interest in Open Source.
 
 - 📫 Reach me at eshaanagg@gmail.com
 
-- 📄 Know about my experiences [here](https://www.canva.com/design/DAFKZUTun1c/v9PVUxOj-KIEn7MPmg2jEg/view?utm_content=DAFKZUTun1c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-- ⚡ Fun fact: My favorite team name for Python competitions is `Indented Pun`.😚
+- 📄 Take a look at my [resume](https://rxresu.me/eshaan.aggarwal.cse21/cv) if you want to know what I have been upto lately!
 
 <br/>
 
