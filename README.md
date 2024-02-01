@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1914844929) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 🗣 Commented on [#529](https://github.com/learningequality/kolibri-design-system/issues/529#issuecomment-1913280071) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-3. 🗣 Commented on [#510](https://github.com/learningequality/kolibri-design-system/issues/510#issuecomment-1913276729) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-4. 🗣 Commented on [#510](https://github.com/learningequality/kolibri-design-system/issues/510#issuecomment-1912958487) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-5. ❗ Opened issue [#4410](https://github.com/litmuschaos/litmus/issues/4410) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
+1. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1921133288) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+2. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1914844929) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+3. 🗣 Commented on [#529](https://github.com/learningequality/kolibri-design-system/issues/529#issuecomment-1913280071) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+4. 🗣 Commented on [#510](https://github.com/learningequality/kolibri-design-system/issues/510#issuecomment-1913276729) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+5. 🗣 Commented on [#510](https://github.com/learningequality/kolibri-design-system/issues/510#issuecomment-1912958487) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
 <!--END_SECTION:activity-->
