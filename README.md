@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1921133288) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1914844929) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🗣 Commented on [#529](https://github.com/learningequality/kolibri-design-system/issues/529#issuecomment-1913280071) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-4. 🗣 Commented on [#510](https://github.com/learningequality/kolibri-design-system/issues/510#issuecomment-1913276729) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-5. 🗣 Commented on [#510](https://github.com/learningequality/kolibri-design-system/issues/510#issuecomment-1912958487) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+1. 🗣 Commented on [#997](https://github.com/kcl-lang/kcl/issues/997#issuecomment-1921265611) in [kcl-lang/kcl](https://github.com/kcl-lang/kcl)
+2. 🗣 Commented on [#1865](https://github.com/open-telemetry/community/issues/1865#issuecomment-1921213301) in [open-telemetry/community](https://github.com/open-telemetry/community)
+3. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1921133288) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1914844929) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. 🗣 Commented on [#529](https://github.com/learningequality/kolibri-design-system/issues/529#issuecomment-1913280071) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
 <!--END_SECTION:activity-->
