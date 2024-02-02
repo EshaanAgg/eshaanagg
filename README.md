@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#510](https://github.com/learningequality/kolibri-design-system/issues/510#issuecomment-1922886390) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-2. 🗣 Commented on [#997](https://github.com/kcl-lang/kcl/issues/997#issuecomment-1922825212) in [kcl-lang/kcl](https://github.com/kcl-lang/kcl)
-3. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1921579851) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🗣 Commented on [#997](https://github.com/kcl-lang/kcl/issues/997#issuecomment-1921265611) in [kcl-lang/kcl](https://github.com/kcl-lang/kcl)
-5. 🗣 Commented on [#1865](https://github.com/open-telemetry/community/issues/1865#issuecomment-1921213301) in [open-telemetry/community](https://github.com/open-telemetry/community)
+1. 🗣 Commented on [#11833](https://github.com/learningequality/kolibri/pull/11833#issuecomment-1923554284) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+2. 💪 Opened PR [#11833](https://github.com/learningequality/kolibri/pull/11833) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+3. 🗣 Commented on [#510](https://github.com/learningequality/kolibri-design-system/issues/510#issuecomment-1922886390) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+4. 🗣 Commented on [#997](https://github.com/kcl-lang/kcl/issues/997#issuecomment-1922825212) in [kcl-lang/kcl](https://github.com/kcl-lang/kcl)
+5. 🗣 Commented on [#1665](https://github.com/PalisadoesFoundation/talawa-api/pull/1665#issuecomment-1921579851) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
