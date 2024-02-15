@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1782](https://github.com/PalisadoesFoundation/talawa-api/issues/1782#issuecomment-1943098072) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-2. 🔒 Closed issue [#1782](https://github.com/PalisadoesFoundation/talawa-api/issues/1782) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-3. 🗣 Commented on [#1830](https://github.com/PalisadoesFoundation/talawa-api/pull/1830#issuecomment-1943096639) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-4. 🗣 Commented on [#1830](https://github.com/PalisadoesFoundation/talawa-api/pull/1830#issuecomment-1943071072) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
-5. 🗣 Commented on [#1782](https://github.com/PalisadoesFoundation/talawa-api/issues/1782#issuecomment-1943069570) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+1. 🗣 Commented on [#11833](https://github.com/learningequality/kolibri/pull/11833#issuecomment-1947062452) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+2. 🗣 Commented on [#1782](https://github.com/PalisadoesFoundation/talawa-api/issues/1782#issuecomment-1943098072) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+3. 🔒 Closed issue [#1782](https://github.com/PalisadoesFoundation/talawa-api/issues/1782) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+4. 🗣 Commented on [#1830](https://github.com/PalisadoesFoundation/talawa-api/pull/1830#issuecomment-1943096639) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+5. 🗣 Commented on [#1830](https://github.com/PalisadoesFoundation/talawa-api/pull/1830#issuecomment-1943071072) in [PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 <!--END_SECTION:activity-->
