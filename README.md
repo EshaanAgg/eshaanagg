@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1006](https://github.com/sosy-lab/benchexec/pull/1006#issuecomment-1976388147) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-2. 🗣 Commented on [#1007](https://github.com/sosy-lab/benchexec/issues/1007#issuecomment-1976369320) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-3. 💪 Opened PR [#11934](https://github.com/learningequality/kolibri/pull/11934) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
-4. 🗣 Commented on [#219](https://github.com/xline-kv/Xline/issues/219#issuecomment-1975196519) in [xline-kv/Xline](https://github.com/xline-kv/Xline)
-5. 🗣 Commented on [#219](https://github.com/xline-kv/Xline/issues/219#issuecomment-1975195308) in [xline-kv/Xline](https://github.com/xline-kv/Xline)
+1. 🗣 Commented on [#1006](https://github.com/sosy-lab/benchexec/pull/1006#issuecomment-1977036323) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+2. 🗣 Commented on [#1006](https://github.com/sosy-lab/benchexec/pull/1006#issuecomment-1977025816) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+3. 🗣 Commented on [#1006](https://github.com/sosy-lab/benchexec/pull/1006#issuecomment-1976388147) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+4. 🗣 Commented on [#1007](https://github.com/sosy-lab/benchexec/issues/1007#issuecomment-1976369320) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+5. 💪 Opened PR [#11934](https://github.com/learningequality/kolibri/pull/11934) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
 <!--END_SECTION:activity-->
