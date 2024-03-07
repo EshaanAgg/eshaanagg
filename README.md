@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#4467](https://github.com/learningequality/studio/pull/4467) in [learningequality/studio](https://github.com/learningequality/studio)
-2. 🗣 Commented on [#4467](https://github.com/learningequality/studio/pull/4467#issuecomment-1984245640) in [learningequality/studio](https://github.com/learningequality/studio)
-3. 💪 Opened PR [#4467](https://github.com/learningequality/studio/pull/4467) in [learningequality/studio](https://github.com/learningequality/studio)
-4. 🗣 Commented on [#1009](https://github.com/sosy-lab/benchexec/pull/1009#issuecomment-1980997443) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-5. 🗣 Commented on [#4410](https://github.com/litmuschaos/litmus/issues/4410#issuecomment-1979515607) in [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
+1. 💪 Opened PR [#29](https://github.com/goharbor/harbor-cli/pull/29) in [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli)
+2. ❌ Closed PR [#4467](https://github.com/learningequality/studio/pull/4467) in [learningequality/studio](https://github.com/learningequality/studio)
+3. 🗣 Commented on [#4467](https://github.com/learningequality/studio/pull/4467#issuecomment-1984245640) in [learningequality/studio](https://github.com/learningequality/studio)
+4. 💪 Opened PR [#4467](https://github.com/learningequality/studio/pull/4467) in [learningequality/studio](https://github.com/learningequality/studio)
+5. 🗣 Commented on [#1009](https://github.com/sosy-lab/benchexec/pull/1009#issuecomment-1980997443) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
 <!--END_SECTION:activity-->
