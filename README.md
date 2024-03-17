@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-1995499423) in [learningequality/studio](https://github.com/learningequality/studio)
-2. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-1993350135) in [learningequality/studio](https://github.com/learningequality/studio)
-3. 💪 Opened PR [#4472](https://github.com/learningequality/studio/pull/4472) in [learningequality/studio](https://github.com/learningequality/studio)
-4. 💪 Opened PR [#29](https://github.com/goharbor/harbor-cli/pull/29) in [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli)
-5. ❌ Closed PR [#4467](https://github.com/learningequality/studio/pull/4467) in [learningequality/studio](https://github.com/learningequality/studio)
+1. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2002598647) in [learningequality/studio](https://github.com/learningequality/studio)
+2. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-1995499423) in [learningequality/studio](https://github.com/learningequality/studio)
+3. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-1993350135) in [learningequality/studio](https://github.com/learningequality/studio)
+4. 💪 Opened PR [#4472](https://github.com/learningequality/studio/pull/4472) in [learningequality/studio](https://github.com/learningequality/studio)
+5. 💪 Opened PR [#29](https://github.com/goharbor/harbor-cli/pull/29) in [goharbor/harbor-cli](https://github.com/goharbor/harbor-cli)
 <!--END_SECTION:activity-->
