@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6887](https://github.com/processing/p5.js/pull/6887) in [processing/p5.js](https://github.com/processing/p5.js)
-2. 🗣 Commented on [#1](https://github.com/ranaaditya/p5.js/pull/1#issuecomment-2004518153) in [ranaaditya/p5.js](https://github.com/ranaaditya/p5.js)
-3. ❌ Closed PR [#1](https://github.com/ranaaditya/p5.js/pull/1) in [ranaaditya/p5.js](https://github.com/ranaaditya/p5.js)
-4. 💪 Opened PR [#1](https://github.com/ranaaditya/p5.js/pull/1) in [ranaaditya/p5.js](https://github.com/ranaaditya/p5.js)
-5. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2002598647) in [learningequality/studio](https://github.com/learningequality/studio)
+1. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2004917256) in [learningequality/studio](https://github.com/learningequality/studio)
+2. 💪 Opened PR [#6887](https://github.com/processing/p5.js/pull/6887) in [processing/p5.js](https://github.com/processing/p5.js)
+3. 🗣 Commented on [#1](https://github.com/ranaaditya/p5.js/pull/1#issuecomment-2004518153) in [ranaaditya/p5.js](https://github.com/ranaaditya/p5.js)
+4. ❌ Closed PR [#1](https://github.com/ranaaditya/p5.js/pull/1) in [ranaaditya/p5.js](https://github.com/ranaaditya/p5.js)
+5. 💪 Opened PR [#1](https://github.com/ranaaditya/p5.js/pull/1) in [ranaaditya/p5.js](https://github.com/ranaaditya/p5.js)
 <!--END_SECTION:activity-->
