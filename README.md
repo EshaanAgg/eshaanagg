@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2016415461) in [learningequality/studio](https://github.com/learningequality/studio)
-2. 🗣 Commented on [#723](https://github.com/sosy-lab/benchexec/issues/723#issuecomment-2015835891) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-3. 🗣 Commented on [#723](https://github.com/sosy-lab/benchexec/issues/723#issuecomment-2012161826) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-4. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2004917256) in [learningequality/studio](https://github.com/learningequality/studio)
-5. 💪 Opened PR [#6887](https://github.com/processing/p5.js/pull/6887) in [processing/p5.js](https://github.com/processing/p5.js)
+1. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2021217073) in [learningequality/studio](https://github.com/learningequality/studio)
+2. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2016415461) in [learningequality/studio](https://github.com/learningequality/studio)
+3. 🗣 Commented on [#723](https://github.com/sosy-lab/benchexec/issues/723#issuecomment-2015835891) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+4. 🗣 Commented on [#723](https://github.com/sosy-lab/benchexec/issues/723#issuecomment-2012161826) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+5. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2004917256) in [learningequality/studio](https://github.com/learningequality/studio)
 <!--END_SECTION:activity-->
