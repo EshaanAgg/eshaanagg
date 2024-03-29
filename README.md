@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#95](https://github.com/bocoup/p5.js-website/issues/95#issuecomment-2026199510) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
-2. ❗ Opened issue [#95](https://github.com/bocoup/p5.js-website/issues/95) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
-3. 💪 Opened PR [#94](https://github.com/bocoup/p5.js-website/pull/94) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
-4. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2025435727) in [learningequality/studio](https://github.com/learningequality/studio)
-5. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2021217073) in [learningequality/studio](https://github.com/learningequality/studio)
+1. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2027611746) in [learningequality/studio](https://github.com/learningequality/studio)
+2. 🗣 Commented on [#95](https://github.com/bocoup/p5.js-website/issues/95#issuecomment-2026199510) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
+3. ❗ Opened issue [#95](https://github.com/bocoup/p5.js-website/issues/95) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
+4. 💪 Opened PR [#94](https://github.com/bocoup/p5.js-website/pull/94) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
+5. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2025435727) in [learningequality/studio](https://github.com/learningequality/studio)
 <!--END_SECTION:activity-->
