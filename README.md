@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#94](https://github.com/bocoup/p5.js-website/pull/94#issuecomment-2029313545) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
-2. 🗣 Commented on [#11934](https://github.com/learningequality/kolibri/pull/11934#issuecomment-2028784079) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
-3. 🗣 Commented on [#106](https://github.com/bocoup/p5.js-website/issues/106#issuecomment-2028087467) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
-4. ❗ Opened issue [#106](https://github.com/bocoup/p5.js-website/issues/106) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
-5. 🗣 Commented on [#4472](https://github.com/learningequality/studio/pull/4472#issuecomment-2027611746) in [learningequality/studio](https://github.com/learningequality/studio)
+1. 🗣 Commented on [#254](https://github.com/learningequality/kolibri-design-system/issues/254#issuecomment-2029864914) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+2. 🗣 Commented on [#94](https://github.com/bocoup/p5.js-website/pull/94#issuecomment-2029313545) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
+3. 🗣 Commented on [#11934](https://github.com/learningequality/kolibri/pull/11934#issuecomment-2028784079) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+4. 🗣 Commented on [#106](https://github.com/bocoup/p5.js-website/issues/106#issuecomment-2028087467) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
+5. ❗ Opened issue [#106](https://github.com/bocoup/p5.js-website/issues/106) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
 <!--END_SECTION:activity-->
