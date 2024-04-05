@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4492](https://github.com/learningequality/studio/issues/4492#issuecomment-2030413080) in [learningequality/studio](https://github.com/learningequality/studio)
-2. 🗣 Commented on [#254](https://github.com/learningequality/kolibri-design-system/issues/254#issuecomment-2029864914) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-3. 🗣 Commented on [#94](https://github.com/bocoup/p5.js-website/pull/94#issuecomment-2029313545) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
-4. 🗣 Commented on [#11934](https://github.com/learningequality/kolibri/pull/11934#issuecomment-2028784079) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
-5. 🗣 Commented on [#106](https://github.com/bocoup/p5.js-website/issues/106#issuecomment-2028087467) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
+1. 🎉 Merged PR [#174](https://github.com/COPS-IITBHU/hackalog-frontend/pull/174) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+2. 🗣 Commented on [#4492](https://github.com/learningequality/studio/issues/4492#issuecomment-2030413080) in [learningequality/studio](https://github.com/learningequality/studio)
+3. 🗣 Commented on [#254](https://github.com/learningequality/kolibri-design-system/issues/254#issuecomment-2029864914) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+4. 🗣 Commented on [#94](https://github.com/bocoup/p5.js-website/pull/94#issuecomment-2029313545) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
+5. 🗣 Commented on [#11934](https://github.com/learningequality/kolibri/pull/11934#issuecomment-2028784079) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
 <!--END_SECTION:activity-->
