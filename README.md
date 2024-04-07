@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4503](https://github.com/learningequality/studio/pull/4503) in [learningequality/studio](https://github.com/learningequality/studio)
-2. 🗣 Commented on [#2013](https://github.com/jaegertracing/jaeger-ui/issues/2013#issuecomment-2041364141) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
-3. 💪 Opened PR [#147](https://github.com/bocoup/p5.js-website/pull/147) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
-4. 💪 Opened PR [#12056](https://github.com/learningequality/kolibri/pull/12056) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
-5. 🎉 Merged PR [#174](https://github.com/COPS-IITBHU/hackalog-frontend/pull/174) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+1. 💪 Opened PR [#12060](https://github.com/learningequality/kolibri/pull/12060) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+2. 💪 Opened PR [#4503](https://github.com/learningequality/studio/pull/4503) in [learningequality/studio](https://github.com/learningequality/studio)
+3. 🗣 Commented on [#2013](https://github.com/jaegertracing/jaeger-ui/issues/2013#issuecomment-2041364141) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+4. 💪 Opened PR [#147](https://github.com/bocoup/p5.js-website/pull/147) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
+5. 💪 Opened PR [#12056](https://github.com/learningequality/kolibri/pull/12056) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
 <!--END_SECTION:activity-->
