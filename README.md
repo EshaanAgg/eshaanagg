@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#147](https://github.com/bocoup/p5.js-website/pull/147) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
-2. 💪 Opened PR [#12056](https://github.com/learningequality/kolibri/pull/12056) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
-3. 🎉 Merged PR [#174](https://github.com/COPS-IITBHU/hackalog-frontend/pull/174) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
-4. 🗣 Commented on [#4492](https://github.com/learningequality/studio/issues/4492#issuecomment-2030413080) in [learningequality/studio](https://github.com/learningequality/studio)
-5. 🗣 Commented on [#254](https://github.com/learningequality/kolibri-design-system/issues/254#issuecomment-2029864914) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+1. 🗣 Commented on [#2013](https://github.com/jaegertracing/jaeger-ui/issues/2013#issuecomment-2041364141) in [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
+2. 💪 Opened PR [#147](https://github.com/bocoup/p5.js-website/pull/147) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
+3. 💪 Opened PR [#12056](https://github.com/learningequality/kolibri/pull/12056) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+4. 🎉 Merged PR [#174](https://github.com/COPS-IITBHU/hackalog-frontend/pull/174) in [COPS-IITBHU/hackalog-frontend](https://github.com/COPS-IITBHU/hackalog-frontend)
+5. 🗣 Commented on [#4492](https://github.com/learningequality/studio/issues/4492#issuecomment-2030413080) in [learningequality/studio](https://github.com/learningequality/studio)
 <!--END_SECTION:activity-->
