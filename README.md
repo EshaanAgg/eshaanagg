@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#12108](https://github.com/learningequality/kolibri/pull/12108) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
-2. 💪 Opened PR [#12083](https://github.com/learningequality/kolibri/pull/12083) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
-3. 🗣 Commented on [#12056](https://github.com/learningequality/kolibri/pull/12056#issuecomment-2052008616) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
-4. 🗣 Commented on [#147](https://github.com/bocoup/p5.js-website/pull/147#issuecomment-2051074554) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
-5. 💪 Opened PR [#12060](https://github.com/learningequality/kolibri/pull/12060) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+1. 🗣 Commented on [#12083](https://github.com/learningequality/kolibri/pull/12083#issuecomment-2075503217) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+2. 💪 Opened PR [#12108](https://github.com/learningequality/kolibri/pull/12108) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+3. 💪 Opened PR [#12083](https://github.com/learningequality/kolibri/pull/12083) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+4. 🗣 Commented on [#12056](https://github.com/learningequality/kolibri/pull/12056#issuecomment-2052008616) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+5. 🗣 Commented on [#147](https://github.com/bocoup/p5.js-website/pull/147#issuecomment-2051074554) in [bocoup/p5.js-website](https://github.com/bocoup/p5.js-website)
 <!--END_SECTION:activity-->
