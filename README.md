@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#547](https://github.com/learningequality/kolibri-design-system/pull/547#issuecomment-2081189965) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
-2. ❌ Closed PR [#292](https://github.com/processing/p5.js-website/pull/292) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
-3. 💪 Opened PR [#292](https://github.com/processing/p5.js-website/pull/292) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
-4. 💪 Opened PR [#1558](https://github.com/hyperledger/caliper/pull/1558) in [hyperledger/caliper](https://github.com/hyperledger/caliper)
-5. 🗣 Commented on [#12083](https://github.com/learningequality/kolibri/pull/12083#issuecomment-2075503217) in [learningequality/kolibri](https://github.com/learningequality/kolibri)
+1. 🗣 Commented on [#292](https://github.com/processing/p5.js-website/pull/292#issuecomment-2081476739) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
+2. ❌ Reopened PR [#292](https://github.com/processing/p5.js-website/pull/292) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
+3. 🗣 Commented on [#547](https://github.com/learningequality/kolibri-design-system/pull/547#issuecomment-2081189965) in [learningequality/kolibri-design-system](https://github.com/learningequality/kolibri-design-system)
+4. ❌ Closed PR [#292](https://github.com/processing/p5.js-website/pull/292) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
+5. 💪 Opened PR [#292](https://github.com/processing/p5.js-website/pull/292) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
 <!--END_SECTION:activity-->
