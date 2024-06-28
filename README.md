@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1054](https://github.com/sosy-lab/benchexec/pull/1054) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-2. 🗣 Commented on [#1054](https://github.com/sosy-lab/benchexec/pull/1054#issuecomment-2196263064) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-3. ❗ Opened issue [#1058](https://github.com/sosy-lab/benchexec/issues/1058) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-4. 🗣 Commented on [#1054](https://github.com/sosy-lab/benchexec/pull/1054#issuecomment-2196233881) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-5. 🗣 Commented on [#1054](https://github.com/sosy-lab/benchexec/pull/1054#issuecomment-2196078513) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+1. 💪 Opened PR [#1059](https://github.com/sosy-lab/benchexec/pull/1059) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+2. ❌ Closed PR [#1054](https://github.com/sosy-lab/benchexec/pull/1054) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+3. 🗣 Commented on [#1054](https://github.com/sosy-lab/benchexec/pull/1054#issuecomment-2196263064) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+4. ❗ Opened issue [#1058](https://github.com/sosy-lab/benchexec/issues/1058) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+5. 🗣 Commented on [#1054](https://github.com/sosy-lab/benchexec/pull/1054#issuecomment-2196233881) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
 <!--END_SECTION:activity-->
