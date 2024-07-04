@@ -100,9 +100,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/11) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
-2. 🗣 Commented on [#1059](https://github.com/sosy-lab/benchexec/pull/1059#issuecomment-2202121332) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-3. 🎉 Merged PR [#2](https://github.com/EshaanAgg/vis-search/pull/2) in [EshaanAgg/vis-search](https://github.com/EshaanAgg/vis-search)
-4. 🗣 Commented on [#1059](https://github.com/sosy-lab/benchexec/pull/1059#issuecomment-2199227226) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-5. 🎉 Merged PR [#1](https://github.com/EshaanAgg/vis-search/pull/1) in [EshaanAgg/vis-search](https://github.com/EshaanAgg/vis-search)
+1. 🗣 Commented on [#1059](https://github.com/sosy-lab/benchexec/pull/1059#issuecomment-2208075935) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+2. 🎉 Merged PR [#11](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/11) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
+3. 🗣 Commented on [#1059](https://github.com/sosy-lab/benchexec/pull/1059#issuecomment-2202121332) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+4. 🎉 Merged PR [#2](https://github.com/EshaanAgg/vis-search/pull/2) in [EshaanAgg/vis-search](https://github.com/EshaanAgg/vis-search)
+5. 🗣 Commented on [#1059](https://github.com/sosy-lab/benchexec/pull/1059#issuecomment-2199227226) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
 <!--END_SECTION:activity-->
